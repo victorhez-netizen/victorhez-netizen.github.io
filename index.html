@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>NetBargains (Local)</title>
+  <link rel="stylesheet" href="/assets/styles.css" />
+</head>
+<body>
+  <header>
+    <h1>NetBargains (Local)</h1>
+    <p class="muted">Daily-updating, local-only MVP</p>
+  </header>
+
+  <section class="filters">
+    <input id="q" placeholder="Search plans…" />
+    <select id="category">
+      <option value="">All categories</option>
+      <option value="mobile">Mobile</option>
+      <option value="internet">Internet</option>
+      <option value="electricity">Electricity</option>
+      <option value="gas">Gas</option>
+    </select>
+    <input id="provider" placeholder="Provider filter…" />
+
+    <!-- postcode (energy) -->
+    <input id="postcode" placeholder="Postcode (for energy)" value="3066" />
+
+    <!-- usage selector + custom -->
+    <label class="usage-wrap">
+      Usage:
+      <select id="usage_level">
+        <option value="low">Low</option>
+        <option value="medium" selected>Medium</option>
+        <option value="high">High</option>
+        <option value="custom">Custom</option>
+      </select>
+      <input id="custom_usage" type="number" placeholder="Custom (kWh or MJ/yr)" style="display:none" />
+      <span class="help-icon" id="usage_help_icon" tabindex="0" aria-label="Usage help">?</span>
+      <div class="tooltip" id="usage_tooltip">
+        <strong>Usage presets (annual)</strong>
+        <ul>
+          <li>Low — 3,000 kWh / 10,000 MJ</li>
+          <li>Medium — 4,000 kWh / 20,000 MJ (default)</li>
+          <li>High — 6,000 kWh / 35,000 MJ</li>
+        </ul>
+        <small>Choose <em>Custom</em> to enter your own annual kWh (electricity) or MJ (gas).</small>
+      </div>
+    </label>
+
+    <input id="min_data_gb" type="number" step="1" placeholder="Min data (GB)" />
+    <input id="max_price" type="number" step="1" placeholder="Max price ($/mth)" />
+    <select id="sort">
+      <option value="price">Sort by price</option>
+      <option value="data">Sort by data</option>
+      <option value="updated">Sort by updated</option>
+    </select>
+    <select id="order">
+      <option value="asc">Asc</option>
+      <option value="desc">Desc</option>
+    </select>
+    <button id="apply">Apply</button>
+  </section>
+
+  <section id="results"></section>
+
+  <footer>
+    <small>Local MVP • SQLite • FastAPI • Vanilla JS</small>
+  </footer>
+
+  <script src="/assets/main.js"></script>
+</body>
+</html>
