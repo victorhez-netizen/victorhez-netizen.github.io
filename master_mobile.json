@@ -1,0 +1,75 @@
+[
+    {
+        "prov_name": "DODO",
+        "title": "DODO | $28 Sim Only",
+        "contract": "SIM-Only postpaid | No lock-in contract",
+        "price_info": "min. total cost $14.00 over 1 month period",
+        "data_allowance": "30GB",
+        "network": "Optus",
+        "product_details": [
+            "Optus network",
+            "4G enabled",
+            "50% off for the first 4 mths, then $28/mth."
+        ]
+    },
+    {
+        "prov_name": "AGL",
+        "title": "AGL | 5G Small Mobile Sim",
+        "contract": "SIM-Only postpaid | No lock-in contract",
+        "price_info": "min. total cost $35.00 over 1 month period",
+        "data_allowance": "40GB",
+        "network": "Optus",
+        "product_details": [
+            "Optus network",
+            "5G enabled"
+        ]
+    },
+    {
+        "prov_name": "AGL",
+        "title": "AGL | 5G Medium Mobile Sim",
+        "contract": "SIM-Only postpaid | No lock-in contract",
+        "price_info": "min. total cost $40.00 over 1 month period",
+        "data_allowance": "80GB",
+        "network": "Optus",
+        "product_details": [
+            "Optus network",
+            "5G enabled"
+        ]
+    },
+    {
+        "prov_name": "AGL",
+        "title": "AGL | 5G Large Mobile Sim",
+        "contract": "SIM-Only postpaid | No lock-in contract",
+        "price_info": "min. total cost $50.00 over 1 month period",
+        "data_allowance": "160GB",
+        "network": "Optus",
+        "product_details": [
+            "Optus network",
+            "5G enabled"
+        ]
+    },
+    {
+        "prov_name": "DODO",
+        "title": "DODO | $33 Sim Only",
+        "contract": "SIM-Only postpaid | No lock-in contract",
+        "price_info": "min. total cost $16.50 over 1 month period",
+        "data_allowance": "40GB",
+        "network": "Optus"
+    },
+    {
+        "prov_name": "DODO",
+        "title": "DODO | $38 Sim Only",
+        "contract": "SIM-Only postpaid | No lock-in contract",
+        "price_info": "min. total cost $19.00 over 1 month period",
+        "data_allowance": "60GB",
+        "network": "Optus"
+    },
+    {
+        "prov_name": "DODO",
+        "title": "DODO | $23 Sim Only",
+        "contract": "SIM-Only postpaid | No lock-in contract",
+        "price_info": "min. total cost $23.00 over 1 month period",
+        "data_allowance": "500GB",
+        "network": "Optus"
+    }
+]
