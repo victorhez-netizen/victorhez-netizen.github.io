@@ -678,6 +678,19 @@
         ]
     },
     {
+        "prov_name": "Exetel",
+        "title": "Exetel | Plus One\nSIM-Only prepaid | 30 days recharge period",
+        "contract": "SIM-Only prepaid | 30 days recharge period",
+        "price_info": "min. total cost $40.00 spend over 30 day recharge",
+        "data_allowance": "1000GB",
+        "network": "Telstra",
+        "product_details": [
+            "Telstra network",
+            "5G enabled",
+            "Data Banking up to 1000GB"
+        ]
+    },
+    {
         "prov_name": "EZEE Mobile",
         "title": "EZEE Mobile | XS 22GB\nSIM-Only prepaid | 1 month recharge period",
         "contract": "SIM-Only prepaid | 1 month recharge period",
@@ -1003,10 +1016,10 @@
     },
     {
         "prov_name": "Kogan",
-        "title": "Kogan | LARGE 365 Days Plan",
+        "title": "Kogan | EXTRA LARGE 365 Days Plan",
         "contract": "SIM-Only prepaid | 365 days recharge period",
-        "price_info": "min. total cost $240.00 spend over 365 day recharge",
-        "data_allowance": "300GB",
+        "price_info": "min. total cost $209.00 spend over 365 day recharge",
+        "data_allowance": "500GB",
         "network": "Vodafone",
         "product_details": [
             "Vodafone network",
@@ -1015,10 +1028,10 @@
     },
     {
         "prov_name": "Kogan",
-        "title": "Kogan | EXTRA LARGE 365 Days Plan",
+        "title": "Kogan | LARGE 365 Days Plan",
         "contract": "SIM-Only prepaid | 365 days recharge period",
-        "price_info": "min. total cost $300.00 spend over 365 day recharge",
-        "data_allowance": "500GB",
+        "price_info": "min. total cost $240.00 spend over 365 day recharge",
+        "data_allowance": "300GB",
         "network": "Vodafone",
         "product_details": [
             "Vodafone network",
@@ -1406,7 +1419,7 @@
     },
     {
         "prov_name": "More Telecom",
-        "title": "More Telecom | 30GB 5G SIM Plan\nSIM-Only postpaid | No lock-in contract",
+        "title": "More Telecom | 30GB 5G SIM Plan",
         "contract": "SIM-Only postpaid | No lock-in contract",
         "price_info": "min. total cost $33.00 over 1 month period",
         "data_allowance": "30GB",
@@ -1631,8 +1644,7 @@
         "network": "Optus",
         "product_details": [
             "Optus network",
-            "5G enabled",
-            "Receive up to $10/mth SubHub credit when you have an active SubHub account with SubHub charges greater than $0. T&Cs apply."
+            "5G enabled"
         ]
     },
     {
@@ -1830,7 +1842,7 @@
     },
     {
         "prov_name": "Spriggy Mobile",
-        "title": "Spriggy Mobile | Kids Essential Plan\nSIM-Only prepaid | 30 days recharge period",
+        "title": "Spriggy Mobile | Kids Essential Plan",
         "contract": "SIM-Only prepaid | 30 days recharge period",
         "price_info": "min. total cost $30.00 spend over 30 day recharge",
         "data_allowance": "25GB",
@@ -1842,7 +1854,7 @@
     },
     {
         "prov_name": "Spriggy Mobile",
-        "title": "Spriggy Mobile | Kids Plus Plan\nSIM-Only prepaid | 30 days recharge period",
+        "title": "Spriggy Mobile | Kids Plus Plan",
         "contract": "SIM-Only prepaid | 30 days recharge period",
         "price_info": "min. total cost $40.00 spend over 30 day recharge",
         "data_allowance": "40GB",
@@ -2353,10 +2365,10 @@
     },
     {
         "prov_name": "Think Mobile",
-        "title": "Think Mobile | Ultimate $37 20GB 6 Months\nSIM-Only postpaid | 6 month contract",
-        "contract": "SIM-Only postpaid | 6 month contract",
-        "price_info": "min. total cost $222.00 over 6 month period",
-        "data_allowance": "20GB",
+        "title": "Think Mobile | Ultimate $37 40GB 12 Months\nSIM-Only postpaid | 12 month contract",
+        "contract": "SIM-Only postpaid | 12 month contract",
+        "price_info": "min. total cost $444.00 over 12 month period",
+        "data_allowance": "40GB",
         "network": "Vodafone",
         "product_details": [
             "Vodafone network",
@@ -2365,10 +2377,10 @@
     },
     {
         "prov_name": "Think Mobile",
-        "title": "Think Mobile | Ultimate $37 40GB 12 Months\nSIM-Only postpaid | 12 month contract",
-        "contract": "SIM-Only postpaid | 12 month contract",
-        "price_info": "min. total cost $444.00 over 12 month period",
-        "data_allowance": "40GB",
+        "title": "Think Mobile | Ultimate $37 20GB 6 Months\nSIM-Only postpaid | 6 month contract",
+        "contract": "SIM-Only postpaid | 6 month contract",
+        "price_info": "min. total cost $222.00 over 6 month period",
+        "data_allowance": "20GB",
         "network": "Vodafone",
         "product_details": [
             "Vodafone network",
@@ -2401,10 +2413,10 @@
     },
     {
         "prov_name": "Think Mobile",
-        "title": "Think Mobile | Ultimate $48 20GB Plan\nSIM-Only postpaid | No lock-in contract",
-        "contract": "SIM-Only postpaid | No lock-in contract",
-        "price_info": "min. total cost $48.00 over 1 month period",
-        "data_allowance": "20GB",
+        "title": "Think Mobile | Ultimate $48 40GB 6 Months\nSIM-Only postpaid | 6 month contract",
+        "contract": "SIM-Only postpaid | 6 month contract",
+        "price_info": "min. total cost $288.00 over 6 month period",
+        "data_allowance": "40GB",
         "network": "Vodafone",
         "product_details": [
             "Vodafone network",
@@ -2413,10 +2425,10 @@
     },
     {
         "prov_name": "Think Mobile",
-        "title": "Think Mobile | Ultimate $48 40GB 6 Months\nSIM-Only postpaid | 6 month contract",
-        "contract": "SIM-Only postpaid | 6 month contract",
-        "price_info": "min. total cost $288.00 over 6 month period",
-        "data_allowance": "40GB",
+        "title": "Think Mobile | Ultimate $48 20GB Plan\nSIM-Only postpaid | No lock-in contract",
+        "contract": "SIM-Only postpaid | No lock-in contract",
+        "price_info": "min. total cost $48.00 over 1 month period",
+        "data_allowance": "20GB",
         "network": "Vodafone",
         "product_details": [
             "Vodafone network",
@@ -2499,7 +2511,7 @@
         "prov_name": "Vodafone",
         "title": "Vodafone | Small Plan",
         "contract": "SIM-Only postpaid | No lock-in contract",
-        "price_info": "min. total cost $43.00 over 1 month period",
+        "price_info": "min. total cost $45.00 over 1 month period",
         "data_allowance": "50GB",
         "network": "Vodafone",
         "product_details": [
@@ -2523,7 +2535,7 @@
         "prov_name": "Vodafone",
         "title": "Vodafone | Medium Plan",
         "contract": "SIM-Only postpaid | No lock-in contract",
-        "price_info": "min. total cost $53.00 over 1 month period",
+        "price_info": "min. total cost $50.00 over 1 month period",
         "data_allowance": "180GB",
         "network": "Vodafone",
         "product_details": [
@@ -2535,7 +2547,7 @@
         "prov_name": "Vodafone",
         "title": "Vodafone | Large Plan",
         "contract": "SIM-Only postpaid | No lock-in contract",
-        "price_info": "min. total cost $63.00 over 1 month period",
+        "price_info": "min. total cost $55.00 over 1 month period",
         "data_allowance": "360GB",
         "network": "Vodafone",
         "product_details": [
