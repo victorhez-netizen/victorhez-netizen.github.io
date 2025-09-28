@@ -1,18 +1,5 @@
 [
     {
-        "prov_name": "DODO",
-        "title": "DODO | $28 Sim Only",
-        "contract": "SIM-Only postpaid | No lock-in contract",
-        "price_info": "min. total cost $14.00 over 1 month period",
-        "data_allowance": "30GB",
-        "network": "Optus",
-        "product_details": [
-            "Optus network",
-            "4G enabled",
-            "50% off for the first 4 mths, then $28/mth."
-        ]
-    },
-    {
         "prov_name": "FELIX",
         "title": "FELIX | $40 Plan",
         "contract": "SIM-Only prepaid | 1 month recharge period",
@@ -71,22 +58,10 @@
     },
     {
         "prov_name": "Aldi Mobile",
-        "title": "Aldi Mobile | $19 Plan\nSIM-Only prepaid | 30 days recharge period",
+        "title": "Aldi Mobile | $23 Plan\nSIM-Only prepaid | 30 days recharge period",
         "contract": "SIM-Only prepaid | 30 days recharge period",
-        "price_info": "min. total cost $24.00 spend over 30 day recharge",
-        "data_allowance": "10GB",
-        "network": "Telstra",
-        "product_details": [
-            "Telstra network",
-            "4G enabled"
-        ]
-    },
-    {
-        "prov_name": "Aldi Mobile",
-        "title": "Aldi Mobile | $25 Plan\nSIM-Only prepaid | 30 days recharge period",
-        "contract": "SIM-Only prepaid | 30 days recharge period",
-        "price_info": "min. total cost $30.00 spend over 30 day recharge",
-        "data_allowance": "22GB",
+        "price_info": "min. total cost $28.00 spend over 30 day recharge",
+        "data_allowance": "12GB",
         "network": "Telstra",
         "product_details": [
             "Telstra network",
@@ -167,10 +142,10 @@
     },
     {
         "prov_name": "Amaysim",
-        "title": "Amaysim | UNLIMITED 80GB Prepaid\nSIM-Only prepaid | 28 days recharge period",
+        "title": "Amaysim | UNLIMITED 42GB Prepaid\nSIM-Only prepaid | 28 days recharge period",
         "contract": "SIM-Only prepaid | 28 days recharge period",
-        "price_info": "min. total cost $15.00 spend over 28 day recharge",
-        "data_allowance": "80GB",
+        "price_info": "min. total cost $12.00 spend over 28 day recharge",
+        "data_allowance": "42GB",
         "network": "Optus",
         "product_details": [
             "Optus network",
@@ -179,10 +154,10 @@
     },
     {
         "prov_name": "Amaysim",
-        "title": "Amaysim | UNLIMITED 42GB Prepaid\nSIM-Only prepaid | 28 days recharge period",
+        "title": "Amaysim | UNLIMITED 80GB Prepaid\nSIM-Only prepaid | 28 days recharge period",
         "contract": "SIM-Only prepaid | 28 days recharge period",
-        "price_info": "min. total cost $23.00 spend over 28 day recharge",
-        "data_allowance": "42GB",
+        "price_info": "min. total cost $15.00 spend over 28 day recharge",
+        "data_allowance": "80GB",
         "network": "Optus",
         "product_details": [
             "Optus network",
@@ -460,10 +435,10 @@
     },
     {
         "prov_name": "Coles Mobile",
-        "title": "Coles Mobile | Prepaid $30 for 28 Days\nSIM-Only prepaid | 28 days recharge period",
+        "title": "Coles Mobile | Prepaid $25 for 28 Days\nSIM-Only prepaid | 28 days recharge period",
         "contract": "SIM-Only prepaid | 28 days recharge period",
-        "price_info": "min. total cost $11.00 spend over 28 day recharge",
-        "data_allowance": "32GB",
+        "price_info": "min. total cost $25.00 spend over 28 day recharge",
+        "data_allowance": "22GB",
         "network": "Optus",
         "product_details": [
             "Optus network",
@@ -472,10 +447,10 @@
     },
     {
         "prov_name": "Coles Mobile",
-        "title": "Coles Mobile | Prepaid $25 for 28 Days\nSIM-Only prepaid | 28 days recharge period",
+        "title": "Coles Mobile | Prepaid $30 for 28 Days\nSIM-Only prepaid | 28 days recharge period",
         "contract": "SIM-Only prepaid | 28 days recharge period",
-        "price_info": "min. total cost $25.00 spend over 28 day recharge",
-        "data_allowance": "22GB",
+        "price_info": "min. total cost $30.00 spend over 28 day recharge",
+        "data_allowance": "35GB",
         "network": "Optus",
         "product_details": [
             "Optus network",
@@ -544,7 +519,20 @@
     },
     {
         "prov_name": "DODO",
-        "title": "DODO | $33 Sim Only",
+        "title": "DODO | $28 Sim Only\nSIM-Only postpaid | No lock-in contract",
+        "contract": "SIM-Only postpaid | No lock-in contract",
+        "price_info": "min. total cost $14.00 over 1 month period",
+        "data_allowance": "30GB",
+        "network": "Optus",
+        "product_details": [
+            "Optus network",
+            "4G enabled",
+            "50% off for the first 4 mths, then $28/mth."
+        ]
+    },
+    {
+        "prov_name": "DODO",
+        "title": "DODO | $33 Sim Only\nSIM-Only postpaid | No lock-in contract",
         "contract": "SIM-Only postpaid | No lock-in contract",
         "price_info": "min. total cost $16.50 over 1 month period",
         "data_allowance": "40GB",
@@ -557,7 +545,7 @@
     },
     {
         "prov_name": "DODO",
-        "title": "DODO | $38 Sim Only",
+        "title": "DODO | $38 Sim Only\nSIM-Only postpaid | No lock-in contract",
         "contract": "SIM-Only postpaid | No lock-in contract",
         "price_info": "min. total cost $19.00 over 1 month period",
         "data_allowance": "60GB",
@@ -570,7 +558,7 @@
     },
     {
         "prov_name": "DODO",
-        "title": "DODO | $23 Sim Only",
+        "title": "DODO | $23 Sim Only\nSIM-Only postpaid | No lock-in contract",
         "contract": "SIM-Only postpaid | No lock-in contract",
         "price_info": "min. total cost $23.00 over 1 month period",
         "data_allowance": "500GB",
@@ -956,7 +944,19 @@
     },
     {
         "prov_name": "Kogan",
-        "title": "Kogan | $25 Medium Plan",
+        "title": "Kogan | $20 Small Plan\nSIM-Only prepaid | 1 month recharge period",
+        "contract": "SIM-Only prepaid | 1 month recharge period",
+        "price_info": "min. total cost $10.00 spend over 1 month recharge",
+        "data_allowance": "20GB",
+        "network": "Vodafone",
+        "product_details": [
+            "Vodafone network",
+            "4G enabled"
+        ]
+    },
+    {
+        "prov_name": "Kogan",
+        "title": "Kogan | $25 Medium Plan\nSIM-Only prepaid | 1 month recharge period",
         "contract": "SIM-Only prepaid | 1 month recharge period",
         "price_info": "min. total cost $12.00 spend over 1 month recharge",
         "data_allowance": "60GB",
@@ -968,10 +968,10 @@
     },
     {
         "prov_name": "Kogan",
-        "title": "Kogan | $20 Small Plan",
+        "title": "Kogan | $40 Large Plan\nSIM-Only prepaid | 1 month recharge period",
         "contract": "SIM-Only prepaid | 1 month recharge period",
-        "price_info": "min. total cost $20.00 spend over 1 month recharge",
-        "data_allowance": "15GB",
+        "price_info": "min. total cost $15.00 spend over 1 month recharge",
+        "data_allowance": "120GB",
         "network": "Vodafone",
         "product_details": [
             "Vodafone network",
@@ -980,10 +980,10 @@
     },
     {
         "prov_name": "Kogan",
-        "title": "Kogan | $40 Large Plan",
-        "contract": "SIM-Only prepaid | 1 month recharge period",
-        "price_info": "min. total cost $40.00 spend over 1 month recharge",
-        "data_allowance": "80GB",
+        "title": "Kogan | MEDIUM 365 Days Plan\nSIM-Only prepaid | 365 days recharge period",
+        "contract": "SIM-Only prepaid | 365 days recharge period",
+        "price_info": "min. total cost $149.00 spend over 365 day recharge",
+        "data_allowance": "200GB",
         "network": "Vodafone",
         "product_details": [
             "Vodafone network",
@@ -992,7 +992,7 @@
     },
     {
         "prov_name": "Kogan",
-        "title": "Kogan | SMALL 365 Days Plan",
+        "title": "Kogan | SMALL 365 Days Plan\nSIM-Only prepaid | 365 days recharge period",
         "contract": "SIM-Only prepaid | 365 days recharge period",
         "price_info": "min. total cost $150.00 spend over 365 day recharge",
         "data_allowance": "140GB",
@@ -1004,34 +1004,22 @@
     },
     {
         "prov_name": "Kogan",
-        "title": "Kogan | LARGE 365 Days Plan",
-        "contract": "SIM-Only prepaid | 365 days recharge period",
-        "price_info": "min. total cost $180.00 spend over 365 day recharge",
-        "data_allowance": "300GB",
-        "network": "Vodafone",
-        "product_details": [
-            "Vodafone network",
-            "4G enabled"
-        ]
-    },
-    {
-        "prov_name": "Kogan",
-        "title": "Kogan | MEDIUM 365 Days Plan",
-        "contract": "SIM-Only prepaid | 365 days recharge period",
-        "price_info": "min. total cost $190.00 spend over 365 day recharge",
-        "data_allowance": "200GB",
-        "network": "Vodafone",
-        "product_details": [
-            "Vodafone network",
-            "4G enabled"
-        ]
-    },
-    {
-        "prov_name": "Kogan",
-        "title": "Kogan | EXTRA LARGE 365 Days Plan",
+        "title": "Kogan | EXTRA LARGE 365 Days Plan\nSIM-Only prepaid | 365 days recharge period",
         "contract": "SIM-Only prepaid | 365 days recharge period",
         "price_info": "min. total cost $209.00 spend over 365 day recharge",
         "data_allowance": "500GB",
+        "network": "Vodafone",
+        "product_details": [
+            "Vodafone network",
+            "4G enabled"
+        ]
+    },
+    {
+        "prov_name": "Kogan",
+        "title": "Kogan | LARGE 365 Days Plan\nSIM-Only prepaid | 365 days recharge period",
+        "contract": "SIM-Only prepaid | 365 days recharge period",
+        "price_info": "min. total cost $240.00 spend over 365 day recharge",
+        "data_allowance": "300GB",
         "network": "Vodafone",
         "product_details": [
             "Vodafone network",
@@ -1407,7 +1395,7 @@
     },
     {
         "prov_name": "More Telecom",
-        "title": "More Telecom | 14GB SIM Plan",
+        "title": "More Telecom | 14GB SIM Plan\nSIM-Only postpaid | No lock-in contract",
         "contract": "SIM-Only postpaid | No lock-in contract",
         "price_info": "min. total cost $28.00 over 1 month period",
         "data_allowance": "14GB",
@@ -1419,7 +1407,7 @@
     },
     {
         "prov_name": "More Telecom",
-        "title": "More Telecom | 30GB 5G SIM Plan",
+        "title": "More Telecom | 30GB 5G SIM Plan\nSIM-Only postpaid | No lock-in contract",
         "contract": "SIM-Only postpaid | No lock-in contract",
         "price_info": "min. total cost $33.00 over 1 month period",
         "data_allowance": "30GB",
@@ -1431,7 +1419,7 @@
     },
     {
         "prov_name": "More Telecom",
-        "title": "More Telecom | 50GB 5G SIM Plan",
+        "title": "More Telecom | 50GB 5G SIM Plan\nSIM-Only postpaid | No lock-in contract",
         "contract": "SIM-Only postpaid | No lock-in contract",
         "price_info": "min. total cost $40.00 over 1 month period",
         "data_allowance": "50GB",
@@ -1443,7 +1431,7 @@
     },
     {
         "prov_name": "More Telecom",
-        "title": "More Telecom | 75GB 5G SIM Plan",
+        "title": "More Telecom | 75GB 5G SIM Plan\nSIM-Only postpaid | No lock-in contract",
         "contract": "SIM-Only postpaid | No lock-in contract",
         "price_info": "min. total cost $46.00 over 1 month period",
         "data_allowance": "75GB",
@@ -1455,7 +1443,7 @@
     },
     {
         "prov_name": "More Telecom",
-        "title": "More Telecom | 100GB 5G SIM Plan",
+        "title": "More Telecom | 100GB 5G SIM Plan\nSIM-Only postpaid | No lock-in contract",
         "contract": "SIM-Only postpaid | No lock-in contract",
         "price_info": "min. total cost $52.00 over 1 month period",
         "data_allowance": "100GB",
@@ -1467,7 +1455,7 @@
     },
     {
         "prov_name": "More Telecom",
-        "title": "More Telecom | 160GB 5G SIM Plan",
+        "title": "More Telecom | 160GB 5G SIM Plan\nSIM-Only postpaid | No lock-in contract",
         "contract": "SIM-Only postpaid | No lock-in contract",
         "price_info": "min. total cost $65.00 over 1 month period",
         "data_allowance": "160GB",
@@ -2064,18 +2052,6 @@
     },
     {
         "prov_name": "TeleChoice",
-        "title": "TeleChoice | Starter Plan\nSIM-Only postpaid | No lock-in contract",
-        "contract": "SIM-Only postpaid | No lock-in contract",
-        "price_info": "min. total cost $24.00 over 1 month period",
-        "data_allowance": "19GB",
-        "network": "Telstra",
-        "product_details": [
-            "Telstra network",
-            "4G enabled"
-        ]
-    },
-    {
-        "prov_name": "TeleChoice",
         "title": "TeleChoice | $28- 28 Day Expiry\nSIM-Only prepaid | 28 days recharge period",
         "contract": "SIM-Only prepaid | 28 days recharge period",
         "price_info": "min. total cost $28.00 spend over 28 day recharge",
@@ -2090,7 +2066,7 @@
         "prov_name": "TeleChoice",
         "title": "TeleChoice | Global Plan\nSIM-Only postpaid | No lock-in contract",
         "contract": "SIM-Only postpaid | No lock-in contract",
-        "price_info": "min. total cost $29.00 over 1 month period",
+        "price_info": "min. total cost $30.00 over 1 month period",
         "data_allowance": "25GB",
         "network": "Telstra",
         "product_details": [
@@ -2124,18 +2100,6 @@
     },
     {
         "prov_name": "TeleChoice",
-        "title": "TeleChoice | Advanced Plan\nSIM-Only postpaid | No lock-in contract",
-        "contract": "SIM-Only postpaid | No lock-in contract",
-        "price_info": "min. total cost $40.00 over 1 month period",
-        "data_allowance": "60GB",
-        "network": "Telstra",
-        "product_details": [
-            "Telstra network",
-            "5G enabled"
-        ]
-    },
-    {
-        "prov_name": "TeleChoice",
         "title": "TeleChoice | $40 - 5G - 30 Day Expiry\nSIM-Only prepaid | 30 days recharge period",
         "contract": "SIM-Only prepaid | 30 days recharge period",
         "price_info": "min. total cost $40.00 spend over 30 day recharge",
@@ -2148,9 +2112,21 @@
     },
     {
         "prov_name": "TeleChoice",
+        "title": "TeleChoice | Advanced Plan\nSIM-Only postpaid | No lock-in contract",
+        "contract": "SIM-Only postpaid | No lock-in contract",
+        "price_info": "min. total cost $42.00 over 1 month period",
+        "data_allowance": "60GB",
+        "network": "Telstra",
+        "product_details": [
+            "Telstra network",
+            "5G enabled"
+        ]
+    },
+    {
+        "prov_name": "TeleChoice",
         "title": "TeleChoice | Premium Plan\nSIM-Only postpaid | No lock-in contract",
         "contract": "SIM-Only postpaid | No lock-in contract",
-        "price_info": "min. total cost $49.00 over 1 month period",
+        "price_info": "min. total cost $52.00 over 1 month period",
         "data_allowance": "100GB",
         "network": "Telstra",
         "product_details": [
