@@ -12,6 +12,18 @@
     "network": "NBN"
   },
   {
+    "provider": "TPG",
+    "plan_name": "FTTB25",
+    "speed": "NBN 25/5",
+    "price": "$39.99",
+    "promo_price": "-",
+    "promotion": "-",
+    "data": "$479.88",
+    "contract": "-",
+    "connection": "Fixed",
+    "network": "NBN"
+  },
+  {
     "provider": "ELEVATE",
     "plan_name": "Everyday Plan",
     "speed": "25/5",
@@ -228,18 +240,6 @@
     "network": "NBN"
   },
   {
-    "provider": "CMOBILE",
-    "plan_name": "Economy",
-    "speed": "25/5",
-    "price": "$59.00",
-    "promo_price": "-",
-    "promotion": "-",
-    "data": "$708.00",
-    "contract": "-",
-    "connection": "Fixed",
-    "network": "NBN"
-  },
-  {
     "provider": "PEAR",
     "plan_name": "12Domestic",
     "speed": "12/1",
@@ -252,9 +252,9 @@
     "network": "NBN"
   },
   {
-    "provider": "10MATES",
-    "plan_name": "Zero Frills 12",
-    "speed": "12/1",
+    "provider": "CMOBILE",
+    "plan_name": "Economy",
+    "speed": "25/5",
     "price": "$59.00",
     "promo_price": "-",
     "promotion": "-",
@@ -294,7 +294,7 @@
     "price": "$59.00",
     "promo_price": "-",
     "promotion": "-",
-    "data": "$715.70",
+    "data": "$708.00",
     "contract": "-",
     "connection": "Fixed",
     "network": "OPTICOMM"
@@ -324,18 +324,6 @@
     "network": "NBN"
   },
   {
-    "provider": "GOINTERNET",
-    "plan_name": "NBN 25",
-    "speed": "25/5",
-    "price": "$59.90",
-    "promo_price": "-",
-    "promotion": "-",
-    "data": "$718.80",
-    "contract": "-",
-    "connection": "Fixed",
-    "network": "NBN"
-  },
-  {
     "provider": "ESCAPENET",
     "plan_name": "HomeFibre 12 Essential",
     "speed": "12/1",
@@ -360,6 +348,18 @@
     "network": "NBN"
   },
   {
+    "provider": "GOINTERNET",
+    "plan_name": "NBN 25",
+    "speed": "25/5",
+    "price": "$59.90",
+    "promo_price": "-",
+    "promotion": "-",
+    "data": "$718.80",
+    "contract": "-",
+    "connection": "Fixed",
+    "network": "NBN"
+  },
+  {
     "provider": "MPHONE",
     "plan_name": "BASIC",
     "speed": "12/1",
@@ -369,30 +369,6 @@
     "data": "$719.40",
     "contract": "-",
     "connection": "Fixed",
-    "network": "NBN"
-  },
-  {
-    "provider": "SUPERLOOP",
-    "plan_name": "Fixed Wireless 50/5",
-    "speed": "50/20",
-    "price": "$59.95",
-    "promo_price": "-",
-    "promotion": "-",
-    "data": "$968.40",
-    "contract": "-",
-    "connection": "Wireless",
-    "network": "NBN"
-  },
-  {
-    "provider": "SUPERLOOP",
-    "plan_name": "Fixed Wireless Wave 125/125",
-    "speed": "250/100",
-    "price": "$59.95",
-    "promo_price": "-",
-    "promotion": "-",
-    "data": "$968.40",
-    "contract": "-",
-    "connection": "Wireless",
     "network": "NBN"
   },
   {
@@ -406,6 +382,30 @@
     "contract": "-",
     "connection": "Fixed",
     "network": "OPTICOMM"
+  },
+  {
+    "provider": "SUPERLOOP",
+    "plan_name": "Fixed Wireless",
+    "speed": "50/5",
+    "price": "$59.95",
+    "promo_price": "-",
+    "promotion": "-",
+    "data": "$968.40",
+    "contract": "-",
+    "connection": "Wireless",
+    "network": "NBN"
+  },
+  {
+    "provider": "SUPERLOOP",
+    "plan_name": "Fixed Wireless Wave",
+    "speed": "125/125",
+    "price": "$59.95",
+    "promo_price": "-",
+    "promotion": "-",
+    "data": "$968.40",
+    "contract": "-",
+    "connection": "Wireless",
+    "network": "NBN"
   },
   {
     "provider": "ESCAPENET",
@@ -552,18 +552,6 @@
     "network": "NBN"
   },
   {
-    "provider": "NEPTUNE",
-    "plan_name": "NBN 25/5 (Fixed Wireless)",
-    "speed": "25/5",
-    "price": "$65.00",
-    "promo_price": "-",
-    "promotion": "-",
-    "data": "$780.00",
-    "contract": "-",
-    "connection": "Wireless",
-    "network": "NBN"
-  },
-  {
     "provider": "QUOKKA NET",
     "plan_name": "25 NBN (Fixed Line)",
     "speed": "25/10",
@@ -585,6 +573,18 @@
     "data": "$684.00",
     "contract": "-",
     "connection": "Fixed",
+    "network": "NBN"
+  },
+  {
+    "provider": "QUOKKA NET",
+    "plan_name": "25 Wireless NBN",
+    "speed": "25/5",
+    "price": "$65.00",
+    "promo_price": "$49.00",
+    "promotion": "$16.00 off 6mo",
+    "data": "$684.00",
+    "contract": "-",
+    "connection": "Wireless",
     "network": "NBN"
   },
   {
@@ -624,6 +624,18 @@
     "network": "OPTICOMM"
   },
   {
+    "provider": "NEPTUNE",
+    "plan_name": "NBN 25/5 (Fixed Wireless)",
+    "speed": "25/5",
+    "price": "$65.00",
+    "promo_price": "-",
+    "promotion": "-",
+    "data": "$780.00",
+    "contract": "-",
+    "connection": "Wireless",
+    "network": "NBN"
+  },
+  {
     "provider": "QURED",
     "plan_name": "nbn\u00e2\u0084\u00a2 25",
     "speed": "25/5",
@@ -660,6 +672,18 @@
     "network": "NBN"
   },
   {
+    "provider": "PEAR",
+    "plan_name": "25Domestic",
+    "speed": "25/5",
+    "price": "$69.00",
+    "promo_price": "-",
+    "promotion": "-",
+    "data": "$828.00",
+    "contract": "-",
+    "connection": "Fixed",
+    "network": "NBN"
+  },
+  {
     "provider": "CMOBILE",
     "plan_name": "Basic",
     "speed": "25/10",
@@ -681,18 +705,6 @@
     "data": "$828.00",
     "contract": "-",
     "connection": "Wireless",
-    "network": "NBN"
-  },
-  {
-    "provider": "PEAR",
-    "plan_name": "25Domestic",
-    "speed": "25/5",
-    "price": "$69.00",
-    "promo_price": "-",
-    "promotion": "-",
-    "data": "$828.00",
-    "contract": "-",
-    "connection": "Fixed",
     "network": "NBN"
   },
   {
@@ -742,30 +754,6 @@
     "contract": "-",
     "connection": "Fixed",
     "network": "OPTICOMM"
-  },
-  {
-    "provider": "10MATES",
-    "plan_name": "Zero Frills 25",
-    "speed": "25/10",
-    "price": "$69.00",
-    "promo_price": "-",
-    "promotion": "-",
-    "data": "$828.00",
-    "contract": "-",
-    "connection": "Fixed",
-    "network": "NBN"
-  },
-  {
-    "provider": "PEAK CONNECT",
-    "plan_name": "Peak Light",
-    "speed": "NBN 12",
-    "price": "$69.00",
-    "promo_price": "-",
-    "promotion": "-",
-    "data": "$828.00",
-    "contract": "24mo",
-    "connection": "Fixed",
-    "network": "NBN"
   },
   {
     "provider": "CMOBILE",
@@ -864,18 +852,6 @@
     "network": "NBN"
   },
   {
-    "provider": "GOINTERNET",
-    "plan_name": "NBN 50",
-    "speed": "50/20",
-    "price": "$69.90",
-    "promo_price": "-",
-    "promotion": "-",
-    "data": "$838.80",
-    "contract": "-",
-    "connection": "Fixed",
-    "network": "NBN"
-  },
-  {
     "provider": "TANGERINE TELECOM",
     "plan_name": "Value",
     "speed": "25/10",
@@ -883,6 +859,18 @@
     "promo_price": "$44.90",
     "promotion": "$25.00 off 6mo",
     "data": "$688.80",
+    "contract": "-",
+    "connection": "Fixed",
+    "network": "NBN"
+  },
+  {
+    "provider": "GOINTERNET",
+    "plan_name": "NBN 50",
+    "speed": "50/20",
+    "price": "$69.90",
+    "promo_price": "-",
+    "promotion": "-",
+    "data": "$838.80",
     "contract": "-",
     "connection": "Fixed",
     "network": "NBN"
@@ -925,7 +913,7 @@
   },
   {
     "provider": "ACTIV8ME",
-    "plan_name": "Standard 25",
+    "plan_name": "Fixed Wireless Standard 25",
     "speed": "25/5",
     "price": "$69.95",
     "promo_price": "$54.95",
@@ -960,18 +948,6 @@
     "network": "OPTICOMM"
   },
   {
-    "provider": "THE INTERNET PROVIDER",
-    "plan_name": "Starter",
-    "speed": "25/5",
-    "price": "$69.99",
-    "promo_price": "-",
-    "promotion": "-",
-    "data": "$839.88",
-    "contract": "-",
-    "connection": "Fixed",
-    "network": "OPTICOMM"
-  },
-  {
     "provider": "INFINET BROADBAND",
     "plan_name": "Basic",
     "speed": "25/10",
@@ -982,6 +958,18 @@
     "contract": "-",
     "connection": "Fixed",
     "network": "NBN"
+  },
+  {
+    "provider": "THE INTERNET PROVIDER",
+    "plan_name": "Starter",
+    "speed": "25/5",
+    "price": "$69.99",
+    "promo_price": "-",
+    "promotion": "-",
+    "data": "$839.88",
+    "contract": "-",
+    "connection": "Fixed",
+    "network": "OPTICOMM"
   },
   {
     "provider": "VOIPEX",
@@ -1001,11 +989,35 @@
     "speed": "25/10",
     "price": "$69.99",
     "promo_price": "$59.99",
-    "promotion": "$10.00 off 3mo",
-    "data": "$809.88",
+    "promotion": "$10.00 off 6mo",
+    "data": "$779.88",
     "contract": "-",
     "connection": "Fixed",
     "network": "OPTICOMM"
+  },
+  {
+    "provider": "OCCOM",
+    "plan_name": "Boost",
+    "speed": "25/10",
+    "price": "$70.00",
+    "promo_price": "$60.00",
+    "promotion": "$10.00 off 6mo",
+    "data": "$780.00",
+    "contract": "-",
+    "connection": "Fixed",
+    "network": "OPTICOMM"
+  },
+  {
+    "provider": "OCCOM",
+    "plan_name": "Boost",
+    "speed": "25/10",
+    "price": "$70.00",
+    "promo_price": "$60.00",
+    "promotion": "$10.00 off 6mo",
+    "data": "$780.00",
+    "contract": "-",
+    "connection": "Fixed",
+    "network": "NBN"
   },
   {
     "provider": "THE INTERNET PROVIDER",
@@ -1015,30 +1027,6 @@
     "promo_price": "-",
     "promotion": "-",
     "data": "$840.00",
-    "contract": "-",
-    "connection": "Fixed",
-    "network": "NBN"
-  },
-  {
-    "provider": "OCCOM",
-    "plan_name": "Boost",
-    "speed": "25/10",
-    "price": "$70.00",
-    "promo_price": "$60.00",
-    "promotion": "$10.00 off 6mo",
-    "data": "$780.00",
-    "contract": "-",
-    "connection": "Fixed",
-    "network": "OPTICOMM"
-  },
-  {
-    "provider": "OCCOM",
-    "plan_name": "Boost",
-    "speed": "25/10",
-    "price": "$70.00",
-    "promo_price": "$60.00",
-    "promotion": "$10.00 off 6mo",
-    "data": "$780.00",
     "contract": "-",
     "connection": "Fixed",
     "network": "NBN"
@@ -1072,9 +1060,9 @@
     "plan_name": "NBN 25",
     "speed": "25/10",
     "price": "$70.00",
-    "promo_price": "$60.00",
-    "promotion": "$10.00 off 6mo",
-    "data": "$780.00",
+    "promo_price": "$30.00",
+    "promotion": "$40.00 off 6mo",
+    "data": "$600.00",
     "contract": "-",
     "connection": "Fixed",
     "network": "NBN"
@@ -1197,7 +1185,7 @@
     "data": "$702.00",
     "contract": "-",
     "connection": "Fixed",
-    "network": "NBN"
+    "network": "OPTICOMM"
   },
   {
     "provider": "SUPERLOOP",
@@ -1207,18 +1195,6 @@
     "promo_price": "$45.00",
     "promotion": "$27.00 off 6mo",
     "data": "$702.00",
-    "contract": "-",
-    "connection": "Fixed",
-    "network": "OPTICOMM"
-  },
-  {
-    "provider": "BELONG",
-    "plan_name": "Starter plan",
-    "speed": "25/10",
-    "price": "$72.00",
-    "promo_price": "$55.00",
-    "promotion": "$17.00 off 6mo",
-    "data": "$762.00",
     "contract": "-",
     "connection": "Fixed",
     "network": "NBN"
@@ -1249,7 +1225,7 @@
   },
   {
     "provider": "AUSSIE BROADBAND",
-    "plan_name": "Opticomm Unlimited 12/1",
+    "plan_name": "Opticomm 12/1",
     "speed": "12/1",
     "price": "$73.00",
     "promo_price": "-",
@@ -1309,7 +1285,7 @@
   },
   {
     "provider": "NEW SPROUT",
-    "plan_name": "Basic",
+    "plan_name": "NBN Basic",
     "speed": "25/10",
     "price": "$74.00",
     "promo_price": "-",
@@ -1321,7 +1297,7 @@
   },
   {
     "provider": "NEW SPROUT",
-    "plan_name": "NBN\u00e2\u0084\u00a2 Fixed Wireless Basic",
+    "plan_name": "NBN Fixed Wireless Basic",
     "speed": "25/5",
     "price": "$74.00",
     "promo_price": "-",
@@ -1405,7 +1381,7 @@
   },
   {
     "provider": "ACTIV8ME",
-    "plan_name": "Plus",
+    "plan_name": "Fixed Wireless Plus",
     "speed": "100/20",
     "price": "$74.95",
     "promo_price": "-",
@@ -1429,6 +1405,18 @@
   },
   {
     "provider": "TPG",
+    "plan_name": "FTTB100",
+    "speed": "NBN 100/20",
+    "price": "$74.99",
+    "promo_price": "-",
+    "promotion": "-",
+    "data": "$899.88",
+    "contract": "-",
+    "connection": "Fixed",
+    "network": "NBN"
+  },
+  {
+    "provider": "TPG",
     "plan_name": "NBN12 Fixed Wireless",
     "speed": "NBN 12",
     "price": "$74.99",
@@ -1437,6 +1425,18 @@
     "data": "$779.88",
     "contract": "-",
     "connection": "Wireless",
+    "network": "NBN"
+  },
+  {
+    "provider": "10MATES",
+    "plan_name": "Zero Frills 12",
+    "speed": "12/1",
+    "price": "$74.99",
+    "promo_price": "-",
+    "promotion": "-",
+    "data": "$899.88",
+    "contract": "-",
+    "connection": "Fixed",
     "network": "NBN"
   },
   {
@@ -1449,30 +1449,6 @@
     "data": "$900.00",
     "contract": "-",
     "connection": "Fixed",
-    "network": "NBN"
-  },
-  {
-    "provider": "LIGHTNING IP",
-    "plan_name": "Basic 25/10",
-    "speed": "25/10",
-    "price": "$75.00",
-    "promo_price": "-",
-    "promotion": "-",
-    "data": "$900.00",
-    "contract": "-",
-    "connection": "Fixed",
-    "network": "NBN"
-  },
-  {
-    "provider": "LIGHTNING IP",
-    "plan_name": "Basic 25/5",
-    "speed": "25/5",
-    "price": "$75.00",
-    "promo_price": "-",
-    "promotion": "-",
-    "data": "$900.00",
-    "contract": "-",
-    "connection": "Wireless",
     "network": "NBN"
   },
   {
@@ -1500,6 +1476,30 @@
     "network": "NBN"
   },
   {
+    "provider": "LIGHTNING IP",
+    "plan_name": "Basic 25/10",
+    "speed": "25/10",
+    "price": "$75.00",
+    "promo_price": "-",
+    "promotion": "-",
+    "data": "$900.00",
+    "contract": "-",
+    "connection": "Fixed",
+    "network": "NBN"
+  },
+  {
+    "provider": "LIGHTNING IP",
+    "plan_name": "Basic 25/5",
+    "speed": "25/5",
+    "price": "$75.00",
+    "promo_price": "-",
+    "promotion": "-",
+    "data": "$900.00",
+    "contract": "-",
+    "connection": "Wireless",
+    "network": "NBN"
+  },
+  {
     "provider": "GOINTERNET",
     "plan_name": "Go25/10",
     "speed": "25/10",
@@ -1507,6 +1507,18 @@
     "promo_price": "-",
     "promotion": "-",
     "data": "$900.00",
+    "contract": "-",
+    "connection": "Fixed",
+    "network": "NBN"
+  },
+  {
+    "provider": "BELONG",
+    "plan_name": "Starter plan",
+    "speed": "25/10",
+    "price": "$75.00",
+    "promo_price": "$55.00",
+    "promotion": "$20.00 off 6mo",
+    "data": "$780.00",
     "contract": "-",
     "connection": "Fixed",
     "network": "NBN"
@@ -1620,6 +1632,18 @@
     "network": "NBN"
   },
   {
+    "provider": "10MATES",
+    "plan_name": "Zero Frills 25",
+    "speed": "25/10",
+    "price": "$76.99",
+    "promo_price": "-",
+    "promotion": "-",
+    "data": "$923.88",
+    "contract": "-",
+    "connection": "Fixed",
+    "network": "NBN"
+  },
+  {
     "provider": "VEETEL",
     "plan_name": "NBN Family",
     "speed": "50/20",
@@ -1636,9 +1660,9 @@
     "plan_name": "Value",
     "speed": "25/10",
     "price": "$78.00",
-    "promo_price": "$53.00",
-    "promotion": "$25.00 off 36mo",
-    "data": "$636.00",
+    "promo_price": "-",
+    "promotion": "-",
+    "data": "$936.00",
     "contract": "-",
     "connection": "Fixed",
     "network": "NBN"
@@ -1680,18 +1704,6 @@
     "network": "NBN"
   },
   {
-    "provider": "PEAK CONNECT",
-    "plan_name": "Peak Standard",
-    "speed": "NBN 25/10",
-    "price": "$79.00",
-    "promo_price": "-",
-    "promotion": "-",
-    "data": "$948.00",
-    "contract": "-",
-    "connection": "Wireless",
-    "network": "NBN"
-  },
-  {
     "provider": "EHW TECHNOLOGY",
     "plan_name": "PREMIUM PLAN",
     "speed": "50/20",
@@ -1699,30 +1711,6 @@
     "promo_price": "-",
     "promotion": "-",
     "data": "$948.00",
-    "contract": "-",
-    "connection": "Fixed",
-    "network": "NBN"
-  },
-  {
-    "provider": "NATAN",
-    "plan_name": "The 25/5",
-    "speed": "25/5",
-    "price": "$79.00",
-    "promo_price": "$69.00",
-    "promotion": "$10.00 off 6mo",
-    "data": "$888.00",
-    "contract": "-",
-    "connection": "Fixed",
-    "network": "OPTICOMM"
-  },
-  {
-    "provider": "PENTANET",
-    "plan_name": "Lite",
-    "speed": "25/10",
-    "price": "$79.00",
-    "promo_price": "$63.20",
-    "promotion": "$15.80 off 6mo",
-    "data": "$853.20",
     "contract": "-",
     "connection": "Fixed",
     "network": "NBN"
@@ -1788,6 +1776,66 @@
     "network": "NBN"
   },
   {
+    "provider": "AGL TELECOMMUNICATIONS",
+    "plan_name": "Home Basic",
+    "speed": "25/5",
+    "price": "$79.00",
+    "promo_price": "$64.00",
+    "promotion": "$15.00",
+    "data": "$768.00",
+    "contract": "-",
+    "connection": "Fixed",
+    "network": "NBN"
+  },
+  {
+    "provider": "AGL TELECOMMUNICATIONS",
+    "plan_name": "Fixed Wireless",
+    "speed": "25/5",
+    "price": "$79.00",
+    "promo_price": "$64.00",
+    "promotion": "$15.00",
+    "data": "$768.00",
+    "contract": "-",
+    "connection": "Wireless",
+    "network": "NBN"
+  },
+  {
+    "provider": "NATAN",
+    "plan_name": "The 25/5",
+    "speed": "25/5",
+    "price": "$79.00",
+    "promo_price": "$69.00",
+    "promotion": "$10.00 off 6mo",
+    "data": "$888.00",
+    "contract": "-",
+    "connection": "Fixed",
+    "network": "OPTICOMM"
+  },
+  {
+    "provider": "PENTANET",
+    "plan_name": "Lite",
+    "speed": "25/10",
+    "price": "$79.00",
+    "promo_price": "$63.20",
+    "promotion": "$15.80 off 6mo",
+    "data": "$853.20",
+    "contract": "-",
+    "connection": "Fixed",
+    "network": "NBN"
+  },
+  {
+    "provider": "PEAK CONNECT",
+    "plan_name": "Peak Standard",
+    "speed": "NBN 25/10",
+    "price": "$79.00",
+    "promo_price": "-",
+    "promotion": "-",
+    "data": "$948.00",
+    "contract": "-",
+    "connection": "Wireless",
+    "network": "NBN"
+  },
+  {
     "provider": "REAL WORLD TECHNOLOGY SOLUTIONS",
     "plan_name": "NBN Home Basic Plus",
     "speed": "25/10",
@@ -1824,42 +1872,6 @@
     "network": "OPTICOMM"
   },
   {
-    "provider": "10MATES",
-    "plan_name": "Zero Frills 50",
-    "speed": "50/20",
-    "price": "$79.00",
-    "promo_price": "-",
-    "promotion": "-",
-    "data": "$948.00",
-    "contract": "-",
-    "connection": "Fixed",
-    "network": "NBN"
-  },
-  {
-    "provider": "AGL TELECOMMUNICATIONS",
-    "plan_name": "Home Basic",
-    "speed": "25/5",
-    "price": "$79.00",
-    "promo_price": "$64.00",
-    "promotion": "$15.00",
-    "data": "$768.00",
-    "contract": "-",
-    "connection": "Fixed",
-    "network": "NBN"
-  },
-  {
-    "provider": "AGL TELECOMMUNICATIONS",
-    "plan_name": "Fixed Wireless",
-    "speed": "25/5",
-    "price": "$79.00",
-    "promo_price": "$64.00",
-    "promotion": "$15.00",
-    "data": "$768.00",
-    "contract": "-",
-    "connection": "Wireless",
-    "network": "NBN"
-  },
-  {
     "provider": "AQUA MOBILE",
     "plan_name": "Essential",
     "speed": "25/5",
@@ -1874,12 +1886,12 @@
   {
     "provider": "PEAK CONNECT",
     "plan_name": "Peak Standard",
-    "speed": "NBN 25/5",
+    "speed": "NBN 25/10",
     "price": "$79.00",
     "promo_price": "-",
     "promotion": "-",
     "data": "$948.00",
-    "contract": "24mo",
+    "contract": "-",
     "connection": "Fixed",
     "network": "NBN"
   },
@@ -1902,7 +1914,7 @@
     "price": "$79.00",
     "promo_price": "-",
     "promotion": "-",
-    "data": "$955.70",
+    "data": "$948.00",
     "contract": "-",
     "connection": "Fixed",
     "network": "OPTICOMM"
@@ -1945,7 +1957,7 @@
   },
   {
     "provider": "AUSSIE BROADBAND",
-    "plan_name": "Opticomm Unlimited 25/10",
+    "plan_name": "Opticomm 25/10",
     "speed": "25/10",
     "price": "$79.00",
     "promo_price": "-",
@@ -1956,6 +1968,18 @@
     "network": "OPTICOMM"
   },
   {
+    "provider": "FLIP",
+    "plan_name": "Family",
+    "speed": "50/20",
+    "price": "$79.90",
+    "promo_price": "$64.00",
+    "promotion": "$15.90 off 6mo",
+    "data": "$863.40",
+    "contract": "-",
+    "connection": "Fixed",
+    "network": "NBN"
+  },
+  {
     "provider": "GOINTERNET",
     "plan_name": "NBN 100/20",
     "speed": "100/20",
@@ -1963,18 +1987,6 @@
     "promo_price": "-",
     "promotion": "-",
     "data": "$958.80",
-    "contract": "-",
-    "connection": "Fixed",
-    "network": "NBN"
-  },
-  {
-    "provider": "FLIP",
-    "plan_name": "Family",
-    "speed": "50/20",
-    "price": "$79.90",
-    "promo_price": "$68.00",
-    "promotion": "$11.90 off 6mo",
-    "data": "$887.40",
     "contract": "-",
     "connection": "Fixed",
     "network": "NBN"
@@ -2029,7 +2041,7 @@
   },
   {
     "provider": "ACTIV8ME",
-    "plan_name": "Home Fast",
+    "plan_name": "Fixed Wireless Home Fast",
     "speed": "250/20",
     "price": "$79.95",
     "promo_price": "-",
@@ -2064,6 +2076,18 @@
     "network": "NBN"
   },
   {
+    "provider": "TPG",
+    "plan_name": "FTTB Max",
+    "speed": "Home Superfast 750/50",
+    "price": "$79.99",
+    "promo_price": "-",
+    "promotion": "-",
+    "data": "$959.88",
+    "contract": "-",
+    "connection": "Fixed",
+    "network": "NBN"
+  },
+  {
     "provider": "ARCTEL",
     "plan_name": "Super Fast",
     "speed": "500/50",
@@ -2081,35 +2105,11 @@
     "speed": "50/20",
     "price": "$79.99",
     "promo_price": "$69.99",
-    "promotion": "$10.00 off 3mo",
-    "data": "$929.88",
+    "promotion": "$10.00 off 6mo",
+    "data": "$899.88",
     "contract": "-",
     "connection": "Fixed",
     "network": "OPTICOMM"
-  },
-  {
-    "provider": "NEPTUNE",
-    "plan_name": "NBN 50/20",
-    "speed": "50/20",
-    "price": "$80.00",
-    "promo_price": "-",
-    "promotion": "-",
-    "data": "$960.00",
-    "contract": "-",
-    "connection": "Fixed",
-    "network": "NBN"
-  },
-  {
-    "provider": "NEPTUNE",
-    "plan_name": "NBN 100/20 (Fixed Wireless)",
-    "speed": "100/20",
-    "price": "$80.00",
-    "promo_price": "-",
-    "promotion": "-",
-    "data": "$960.00",
-    "contract": "-",
-    "connection": "Wireless",
-    "network": "NBN"
   },
   {
     "provider": "CARBON COMMS",
@@ -2181,6 +2181,30 @@
     "data": "$960.00",
     "contract": "-",
     "connection": "Fixed",
+    "network": "NBN"
+  },
+  {
+    "provider": "NEPTUNE",
+    "plan_name": "NBN 50/20",
+    "speed": "50/20",
+    "price": "$80.00",
+    "promo_price": "-",
+    "promotion": "-",
+    "data": "$960.00",
+    "contract": "-",
+    "connection": "Fixed",
+    "network": "NBN"
+  },
+  {
+    "provider": "NEPTUNE",
+    "plan_name": "NBN 100/20 (Fixed Wireless)",
+    "speed": "100/20",
+    "price": "$80.00",
+    "promo_price": "-",
+    "promotion": "-",
+    "data": "$960.00",
+    "contract": "-",
+    "connection": "Wireless",
     "network": "NBN"
   },
   {
@@ -2580,6 +2604,18 @@
     "network": "NBN"
   },
   {
+    "provider": "10MATES",
+    "plan_name": "Zero Frills 50",
+    "speed": "50/20",
+    "price": "$84.99",
+    "promo_price": "-",
+    "promotion": "-",
+    "data": "$1019.88",
+    "contract": "-",
+    "connection": "Fixed",
+    "network": "NBN"
+  },
+  {
     "provider": "HARBOUR ISP",
     "plan_name": "The 25",
     "speed": "25/5",
@@ -2592,54 +2628,6 @@
     "network": "OPTICOMM"
   },
   {
-    "provider": "LIGHTNING IP",
-    "plan_name": "Standard",
-    "speed": "50/20",
-    "price": "$85.00",
-    "promo_price": "-",
-    "promotion": "-",
-    "data": "$1020.00",
-    "contract": "-",
-    "connection": "Fixed",
-    "network": "NBN"
-  },
-  {
-    "provider": "LIGHTNING IP",
-    "plan_name": "Plus",
-    "speed": "150/30",
-    "price": "$85.00",
-    "promo_price": "-",
-    "promotion": "-",
-    "data": "$1020.00",
-    "contract": "-",
-    "connection": "Wireless",
-    "network": "NBN"
-  },
-  {
-    "provider": "NEPTUNE",
-    "plan_name": "NBN 100/20",
-    "speed": "100/20",
-    "price": "$85.00",
-    "promo_price": "-",
-    "promotion": "-",
-    "data": "$1020.00",
-    "contract": "-",
-    "connection": "Fixed",
-    "network": "NBN"
-  },
-  {
-    "provider": "NEPTUNE",
-    "plan_name": "NBN 500/50",
-    "speed": "500/50",
-    "price": "$85.00",
-    "promo_price": "-",
-    "promotion": "-",
-    "data": "$1020.00",
-    "contract": "-",
-    "connection": "Fixed",
-    "network": "NBN"
-  },
-  {
     "provider": "TELSTRA",
     "plan_name": "Basic nbn Internet Only",
     "speed": "25/5",
@@ -2650,18 +2638,6 @@
     "contract": "-",
     "connection": "Fixed",
     "network": "NBN"
-  },
-  {
-    "provider": "OCCOM",
-    "plan_name": "Boost Plus",
-    "speed": "50/20",
-    "price": "$85.00",
-    "promo_price": "$75.00",
-    "promotion": "$10.00 off 6mo",
-    "data": "$960.00",
-    "contract": "-",
-    "connection": "Fixed",
-    "network": "OPTICOMM"
   },
   {
     "provider": "CARBON COMMS",
@@ -2712,6 +2688,54 @@
     "network": "NBN"
   },
   {
+    "provider": "PEAR",
+    "plan_name": "100Domestic",
+    "speed": "100/20",
+    "price": "$85.00",
+    "promo_price": "-",
+    "promotion": "-",
+    "data": "$1020.00",
+    "contract": "-",
+    "connection": "Fixed",
+    "network": "NBN"
+  },
+  {
+    "provider": "LIGHTNING IP",
+    "plan_name": "Standard",
+    "speed": "50/20",
+    "price": "$85.00",
+    "promo_price": "-",
+    "promotion": "-",
+    "data": "$1020.00",
+    "contract": "-",
+    "connection": "Fixed",
+    "network": "NBN"
+  },
+  {
+    "provider": "LIGHTNING IP",
+    "plan_name": "Plus",
+    "speed": "150/30",
+    "price": "$85.00",
+    "promo_price": "-",
+    "promotion": "-",
+    "data": "$1020.00",
+    "contract": "-",
+    "connection": "Wireless",
+    "network": "NBN"
+  },
+  {
+    "provider": "OCCOM",
+    "plan_name": "Boost Plus",
+    "speed": "50/20",
+    "price": "$85.00",
+    "promo_price": "$75.00",
+    "promotion": "$10.00 off 6mo",
+    "data": "$960.00",
+    "contract": "-",
+    "connection": "Fixed",
+    "network": "OPTICOMM"
+  },
+  {
     "provider": "CMOBILE",
     "plan_name": "Value",
     "speed": "50/20",
@@ -2748,18 +2772,6 @@
     "network": "NBN"
   },
   {
-    "provider": "PEAR",
-    "plan_name": "100Domestic",
-    "speed": "100/20",
-    "price": "$85.00",
-    "promo_price": "-",
-    "promotion": "-",
-    "data": "$1020.00",
-    "contract": "-",
-    "connection": "Fixed",
-    "network": "NBN"
-  },
-  {
     "provider": "QUOKKA NET",
     "plan_name": "nbn Home Fast (Fixed Line)",
     "speed": "500/50",
@@ -2784,15 +2796,15 @@
     "network": "NBN"
   },
   {
-    "provider": "SUPERLOOP",
-    "plan_name": "Extra Value",
-    "speed": "50/20",
+    "provider": "QUOKKA NET",
+    "plan_name": "Wireless Plus NBN",
+    "speed": "100/20",
     "price": "$85.00",
-    "promo_price": "$65.00",
-    "promotion": "$20.00 off 6mo",
-    "data": "$900.00",
+    "promo_price": "$74.00",
+    "promotion": "$11.00 off 6mo",
+    "data": "$954.00",
     "contract": "-",
-    "connection": "Fixed",
+    "connection": "Wireless",
     "network": "NBN"
   },
   {
@@ -2848,9 +2860,9 @@
     "plan_name": "NBN 50",
     "speed": "50/20",
     "price": "$85.00",
-    "promo_price": "$75.00",
-    "promotion": "$10.00 off 6mo",
-    "data": "$960.00",
+    "promo_price": "$45.00",
+    "promotion": "$40.00 off 6mo",
+    "data": "$780.00",
     "contract": "-",
     "connection": "Fixed",
     "network": "NBN"
@@ -2917,13 +2929,37 @@
   },
   {
     "provider": "MAD OVER TECH",
-    "plan_name": "BASIC PLANB",
+    "plan_name": "BASIC PLAN",
     "speed": "50/20",
     "price": "$85.00",
     "promo_price": "-",
     "promotion": "-",
     "data": "$1020.00",
     "contract": "24mo",
+    "connection": "Fixed",
+    "network": "NBN"
+  },
+  {
+    "provider": "NEPTUNE",
+    "plan_name": "NBN 100/20",
+    "speed": "100/20",
+    "price": "$85.00",
+    "promo_price": "-",
+    "promotion": "-",
+    "data": "$1020.00",
+    "contract": "-",
+    "connection": "Fixed",
+    "network": "NBN"
+  },
+  {
+    "provider": "NEPTUNE",
+    "plan_name": "NBN 500/50",
+    "speed": "500/50",
+    "price": "$85.00",
+    "promo_price": "-",
+    "promotion": "-",
+    "data": "$1020.00",
+    "contract": "-",
     "connection": "Fixed",
     "network": "NBN"
   },
@@ -2947,6 +2983,18 @@
     "promo_price": "-",
     "promotion": "-",
     "data": "$1020.00",
+    "contract": "-",
+    "connection": "Fixed",
+    "network": "NBN"
+  },
+  {
+    "provider": "SUPERLOOP",
+    "plan_name": "Extra Value",
+    "speed": "50/20",
+    "price": "$85.00",
+    "promo_price": "$65.00",
+    "promotion": "$20.00 off 6mo",
+    "data": "$900.00",
     "contract": "-",
     "connection": "Fixed",
     "network": "NBN"
@@ -3144,18 +3192,6 @@
     "network": "OPTICOMM"
   },
   {
-    "provider": "BELONG",
-    "plan_name": "Standard Plus plan",
-    "speed": "50/20",
-    "price": "$88.00",
-    "promo_price": "$65.00",
-    "promotion": "$23.00 off 6mo",
-    "data": "$918.00",
-    "contract": "-",
-    "connection": "Fixed",
-    "network": "NBN"
-  },
-  {
     "provider": "OCEANDIGI",
     "plan_name": "Boost Plus",
     "speed": "NBN 50",
@@ -3228,6 +3264,54 @@
     "network": "NBN"
   },
   {
+    "provider": "SOUTHERN PHONE",
+    "plan_name": "nbn\u00c2\u00ae Fixed Wireless Fast",
+    "speed": "100/20",
+    "price": "$89.00",
+    "promo_price": "-",
+    "promotion": "-",
+    "data": "$1068.00",
+    "contract": "-",
+    "connection": "Wireless",
+    "network": "NBN"
+  },
+  {
+    "provider": "SOUTHERN PHONE",
+    "plan_name": "nbn\u00c2\u00ae Fast Broadband Plan",
+    "speed": "100/20",
+    "price": "$89.00",
+    "promo_price": "-",
+    "promotion": "-",
+    "data": "$1068.00",
+    "contract": "-",
+    "connection": "Fixed",
+    "network": "NBN"
+  },
+  {
+    "provider": "SOUTHERN PHONE",
+    "plan_name": "nbn\u00c2\u00ae Fast X Broadband Plan",
+    "speed": "500/50",
+    "price": "$89.00",
+    "promo_price": "-",
+    "promotion": "-",
+    "data": "$1068.00",
+    "contract": "-",
+    "connection": "Fixed",
+    "network": "NBN"
+  },
+  {
+    "provider": "SOUTHERN PHONE",
+    "plan_name": "nbn\u00c2\u00ae Fast X Business PlanB",
+    "speed": "500/50",
+    "price": "$89.00",
+    "promo_price": "-",
+    "promotion": "-",
+    "data": "$1068.00",
+    "contract": "-",
+    "connection": "Fixed",
+    "network": "NBN"
+  },
+  {
     "provider": "LIGHTNING IP",
     "plan_name": "Fast 100/20",
     "speed": "100/20",
@@ -3288,54 +3372,6 @@
     "network": "NBN"
   },
   {
-    "provider": "SOUTHERN PHONE",
-    "plan_name": "nbn\u00c2\u00ae Fixed Wireless Fast",
-    "speed": "100/20",
-    "price": "$89.00",
-    "promo_price": "-",
-    "promotion": "-",
-    "data": "$1068.00",
-    "contract": "-",
-    "connection": "Wireless",
-    "network": "NBN"
-  },
-  {
-    "provider": "SOUTHERN PHONE",
-    "plan_name": "nbn\u00c2\u00ae Fast Broadband Plan",
-    "speed": "100/20",
-    "price": "$89.00",
-    "promo_price": "-",
-    "promotion": "-",
-    "data": "$1068.00",
-    "contract": "-",
-    "connection": "Fixed",
-    "network": "NBN"
-  },
-  {
-    "provider": "SOUTHERN PHONE",
-    "plan_name": "nbn\u00c2\u00ae Fast X Broadband Plan",
-    "speed": "500/50",
-    "price": "$89.00",
-    "promo_price": "-",
-    "promotion": "-",
-    "data": "$1068.00",
-    "contract": "-",
-    "connection": "Fixed",
-    "network": "NBN"
-  },
-  {
-    "provider": "SOUTHERN PHONE",
-    "plan_name": "nbn\u00c2\u00ae Fast X Business PlanB",
-    "speed": "500/50",
-    "price": "$89.00",
-    "promo_price": "-",
-    "promotion": "-",
-    "data": "$1068.00",
-    "contract": "-",
-    "connection": "Fixed",
-    "network": "NBN"
-  },
-  {
     "provider": "GOINTERNET",
     "plan_name": "Go50/20",
     "speed": "50/20",
@@ -3385,7 +3421,7 @@
   },
   {
     "provider": "NEW SPROUT",
-    "plan_name": "Standard",
+    "plan_name": "NBN Standard",
     "speed": "50/20",
     "price": "$89.00",
     "promo_price": "-",
@@ -3397,7 +3433,7 @@
   },
   {
     "provider": "NEW SPROUT",
-    "plan_name": "NBN\u00e2\u0084\u00a2 Fixed Wireless Standard",
+    "plan_name": "NBN Fixed Wireless Standard",
     "speed": "100/20",
     "price": "$89.00",
     "promo_price": "-",
@@ -3405,18 +3441,6 @@
     "data": "$1068.00",
     "contract": "-",
     "connection": "Wireless",
-    "network": "NBN"
-  },
-  {
-    "provider": "ORIGIN BROADBAND",
-    "plan_name": "Everyday nbn",
-    "speed": "25/10",
-    "price": "$89.00",
-    "promo_price": "-",
-    "promotion": "-",
-    "data": "$1068.00",
-    "contract": "-",
-    "connection": "Fixed",
     "network": "NBN"
   },
   {
@@ -3468,18 +3492,6 @@
     "network": "NBN"
   },
   {
-    "provider": "SUPERLOOP",
-    "plan_name": "Fixed Wireless Plus 100/20",
-    "speed": "100/20",
-    "price": "$89.00",
-    "promo_price": "$75.00",
-    "promotion": "$14.00 off 6mo",
-    "data": "$984.00",
-    "contract": "-",
-    "connection": "Wireless",
-    "network": "NBN"
-  },
-  {
     "provider": "URL NETWORKS",
     "plan_name": "nbn Home Fast 500/50",
     "speed": "500/50",
@@ -3516,18 +3528,6 @@
     "network": "OPTICOMM"
   },
   {
-    "provider": "10MATES",
-    "plan_name": "Zero Frills 100",
-    "speed": "100/40",
-    "price": "$89.00",
-    "promo_price": "-",
-    "promotion": "-",
-    "data": "$1068.00",
-    "contract": "-",
-    "connection": "Fixed",
-    "network": "NBN"
-  },
-  {
     "provider": "2IT TECHNOLOGY",
     "plan_name": "NBN 50/20B",
     "speed": "50/20",
@@ -3536,18 +3536,6 @@
     "promotion": "-",
     "data": "$1068.00",
     "contract": "-",
-    "connection": "Fixed",
-    "network": "NBN"
-  },
-  {
-    "provider": "PEAK CONNECT",
-    "plan_name": "Peak Fast",
-    "speed": "NBN 50",
-    "price": "$89.00",
-    "promo_price": "-",
-    "promotion": "-",
-    "data": "$1068.00",
-    "contract": "24mo",
     "connection": "Fixed",
     "network": "NBN"
   },
@@ -3636,15 +3624,15 @@
     "network": "NBN"
   },
   {
-    "provider": "GOINTERNET",
-    "plan_name": "NBN 100/40",
-    "speed": "100/40",
-    "price": "$89.90",
-    "promo_price": "-",
-    "promotion": "-",
-    "data": "$1078.80",
+    "provider": "SUPERLOOP",
+    "plan_name": "Fixed Wireless Plus",
+    "speed": "100/20",
+    "price": "$89.00",
+    "promo_price": "$75.00",
+    "promotion": "$14.00 off 6mo",
+    "data": "$984.00",
     "contract": "-",
-    "connection": "Fixed",
+    "connection": "Wireless",
     "network": "NBN"
   },
   {
@@ -3655,6 +3643,18 @@
     "promo_price": "$78.00",
     "promotion": "$11.90 off 4mo",
     "data": "$1031.20",
+    "contract": "-",
+    "connection": "Fixed",
+    "network": "NBN"
+  },
+  {
+    "provider": "GOINTERNET",
+    "plan_name": "NBN 100/40",
+    "speed": "100/40",
+    "price": "$89.90",
+    "promo_price": "-",
+    "promotion": "-",
+    "data": "$1078.80",
     "contract": "-",
     "connection": "Fixed",
     "network": "NBN"
@@ -3708,18 +3708,6 @@
     "network": "NBN"
   },
   {
-    "provider": "SUPERLOOP",
-    "plan_name": "Fixed Wireless Wave 250/250",
-    "speed": "250/100",
-    "price": "$89.95",
-    "promo_price": "-",
-    "promotion": "-",
-    "data": "$1328.40",
-    "contract": "-",
-    "connection": "Wireless",
-    "network": "NBN"
-  },
-  {
     "provider": "VALVE NETWORKS",
     "plan_name": "NBN 50",
     "speed": "50/20",
@@ -3756,16 +3744,16 @@
     "network": "NBN"
   },
   {
-    "provider": "THE INTERNET PROVIDER",
-    "plan_name": "Premium",
-    "speed": "50/20",
-    "price": "$89.99",
+    "provider": "SUPERLOOP",
+    "plan_name": "Fixed Wireless Wave",
+    "speed": "250/250",
+    "price": "$89.95",
     "promo_price": "-",
     "promotion": "-",
-    "data": "$1079.88",
+    "data": "$1328.40",
     "contract": "-",
-    "connection": "Fixed",
-    "network": "OPTICOMM"
+    "connection": "Wireless",
+    "network": "NBN"
   },
   {
     "provider": "INFINET BROADBAND",
@@ -3792,6 +3780,18 @@
     "network": "NBN"
   },
   {
+    "provider": "THE INTERNET PROVIDER",
+    "plan_name": "Premium",
+    "speed": "50/20",
+    "price": "$89.99",
+    "promo_price": "-",
+    "promotion": "-",
+    "data": "$1079.88",
+    "contract": "-",
+    "connection": "Fixed",
+    "network": "OPTICOMM"
+  },
+  {
     "provider": "INFINET BROADBAND",
     "plan_name": "Plus",
     "speed": "100/20",
@@ -3809,8 +3809,8 @@
     "speed": "100/20",
     "price": "$89.99",
     "promo_price": "$79.99",
-    "promotion": "$10.00 off 3mo",
-    "data": "$1049.88",
+    "promotion": "$10.00 off 6mo",
+    "data": "$1019.88",
     "contract": "-",
     "connection": "Fixed",
     "network": "OPTICOMM"
@@ -3821,8 +3821,8 @@
     "speed": "500/50",
     "price": "$89.99",
     "promo_price": "$79.99",
-    "promotion": "$10.00 off 3mo",
-    "data": "$1049.88",
+    "promotion": "$10.00 off 6mo",
+    "data": "$1019.88",
     "contract": "-",
     "connection": "Fixed",
     "network": "OPTICOMM"
@@ -3840,6 +3840,54 @@
     "network": "OPTICOMM"
   },
   {
+    "provider": "OCCOM",
+    "plan_name": "Turbo",
+    "speed": "500/50",
+    "price": "$90.00",
+    "promo_price": "$85.00",
+    "promotion": "$5.00 off 12mo",
+    "data": "$1020.00",
+    "contract": "-",
+    "connection": "Fixed",
+    "network": "OPTICOMM"
+  },
+  {
+    "provider": "OCCOM",
+    "plan_name": "Superfast",
+    "speed": "100/20",
+    "price": "$90.00",
+    "promo_price": "$80.00",
+    "promotion": "$10.00 off 6mo",
+    "data": "$1020.00",
+    "contract": "-",
+    "connection": "Fixed",
+    "network": "OPTICOMM"
+  },
+  {
+    "provider": "OCCOM",
+    "plan_name": "Turbo",
+    "speed": "500/50",
+    "price": "$90.00",
+    "promo_price": "$85.00",
+    "promotion": "$5.00 off 12mo",
+    "data": "$1020.00",
+    "contract": "-",
+    "connection": "Fixed",
+    "network": "NBN"
+  },
+  {
+    "provider": "OCCOM",
+    "plan_name": "Superfast",
+    "speed": "100/20",
+    "price": "$90.00",
+    "promo_price": "$80.00",
+    "promotion": "$10.00 off 6mo",
+    "data": "$1020.00",
+    "contract": "-",
+    "connection": "Fixed",
+    "network": "NBN"
+  },
+  {
     "provider": "THE INTERNET PROVIDER",
     "plan_name": "Deluxe",
     "speed": "50/20",
@@ -3847,54 +3895,6 @@
     "promo_price": "-",
     "promotion": "-",
     "data": "$1080.00",
-    "contract": "-",
-    "connection": "Fixed",
-    "network": "NBN"
-  },
-  {
-    "provider": "OCCOM",
-    "plan_name": "Turbo",
-    "speed": "500/50",
-    "price": "$90.00",
-    "promo_price": "$85.00",
-    "promotion": "$5.00 off 12mo",
-    "data": "$1020.00",
-    "contract": "-",
-    "connection": "Fixed",
-    "network": "OPTICOMM"
-  },
-  {
-    "provider": "OCCOM",
-    "plan_name": "Superfast",
-    "speed": "100/20",
-    "price": "$90.00",
-    "promo_price": "$80.00",
-    "promotion": "$10.00 off 6mo",
-    "data": "$1020.00",
-    "contract": "-",
-    "connection": "Fixed",
-    "network": "OPTICOMM"
-  },
-  {
-    "provider": "OCCOM",
-    "plan_name": "Turbo",
-    "speed": "500/50",
-    "price": "$90.00",
-    "promo_price": "$85.00",
-    "promotion": "$5.00 off 12mo",
-    "data": "$1020.00",
-    "contract": "-",
-    "connection": "Fixed",
-    "network": "NBN"
-  },
-  {
-    "provider": "OCCOM",
-    "plan_name": "Superfast",
-    "speed": "100/20",
-    "price": "$90.00",
-    "promo_price": "$80.00",
-    "promotion": "$10.00 off 6mo",
-    "data": "$1020.00",
     "contract": "-",
     "connection": "Fixed",
     "network": "NBN"
@@ -3961,7 +3961,7 @@
   },
   {
     "provider": "FUTURE BROADBAND",
-    "plan_name": "FUTURE 50/20",
+    "plan_name": "FUTURE 50",
     "speed": "50/20",
     "price": "$90.00",
     "promo_price": "-",
@@ -4058,7 +4058,7 @@
   {
     "provider": "SPINTEL",
     "plan_name": "Wireless SuperFast",
-    "speed": "400/40",
+    "speed": "500/50",
     "price": "$90.95",
     "promo_price": "$80.00",
     "promotion": "$10.95 off 6mo",
@@ -4068,13 +4068,25 @@
     "network": "NBN"
   },
   {
+    "provider": "BELONG",
+    "plan_name": "Standard Plus plan",
+    "speed": "50/20",
+    "price": "$91.00",
+    "promo_price": "$65.00",
+    "promotion": "$26.00 off 6mo",
+    "data": "$936.00",
+    "contract": "-",
+    "connection": "Fixed",
+    "network": "NBN"
+  },
+  {
     "provider": "CARBON COMMS",
     "plan_name": "Carbon Home Fast 100/20",
     "speed": "100/20",
     "price": "$91.00",
     "promo_price": "-",
     "promotion": "-",
-    "data": "$1099.70",
+    "data": "$1092.00",
     "contract": "-",
     "connection": "Fixed",
     "network": "OPTICOMM"
@@ -4122,7 +4134,7 @@
     "price": "$92.00",
     "promo_price": "-",
     "promotion": "-",
-    "data": "$1111.70",
+    "data": "$1104.00",
     "contract": "-",
     "connection": "Fixed",
     "network": "OPTICOMM"
@@ -4362,7 +4374,7 @@
     "price": "$93.00",
     "promo_price": "-",
     "promotion": "-",
-    "data": "$1123.70",
+    "data": "$1116.00",
     "contract": "-",
     "connection": "Fixed",
     "network": "OPTICOMM"
@@ -4381,7 +4393,7 @@
   },
   {
     "provider": "AUSSIE BROADBAND",
-    "plan_name": "Opticomm Unlimited 50/20",
+    "plan_name": "Opticomm 50/20",
     "speed": "50/20",
     "price": "$93.00",
     "promo_price": "-",
@@ -4399,6 +4411,18 @@
     "promo_price": "$84.00",
     "promotion": "$10.00 off 12mo",
     "data": "$1008.00",
+    "contract": "-",
+    "connection": "Fixed",
+    "network": "NBN"
+  },
+  {
+    "provider": "ORIGIN BROADBAND",
+    "plan_name": "Everyday nbn",
+    "speed": "25/10",
+    "price": "$94.00",
+    "promo_price": "$47.00",
+    "promotion": "$47.00 off 6mo",
+    "data": "$846.00",
     "contract": "-",
     "connection": "Fixed",
     "network": "NBN"
@@ -4632,6 +4656,30 @@
     "network": "NBN"
   },
   {
+    "provider": "10MATES",
+    "plan_name": "Zero Frills 100",
+    "speed": "100/40",
+    "price": "$94.99",
+    "promo_price": "-",
+    "promotion": "-",
+    "data": "$1139.88",
+    "contract": "-",
+    "connection": "Fixed",
+    "network": "NBN"
+  },
+  {
+    "provider": "10MATES",
+    "plan_name": "Zero Frills 250",
+    "speed": "250/25",
+    "price": "$94.99",
+    "promo_price": "-",
+    "promotion": "-",
+    "data": "$1139.88",
+    "contract": "-",
+    "connection": "Fixed",
+    "network": "NBN"
+  },
+  {
     "provider": "CLICK ACCESS",
     "plan_name": "power",
     "speed": "500/50",
@@ -4656,30 +4704,6 @@
     "network": "NBN"
   },
   {
-    "provider": "NEPTUNE",
-    "plan_name": "NBN 100/40B",
-    "speed": "100/40",
-    "price": "$95.00",
-    "promo_price": "-",
-    "promotion": "-",
-    "data": "$1140.00",
-    "contract": "-",
-    "connection": "Fixed",
-    "network": "NBN"
-  },
-  {
-    "provider": "NEPTUNE",
-    "plan_name": "NBN 750/50",
-    "speed": "750/50",
-    "price": "$95.00",
-    "promo_price": "-",
-    "promotion": "-",
-    "data": "$1140.00",
-    "contract": "-",
-    "connection": "Fixed",
-    "network": "NBN"
-  },
-  {
     "provider": "TELSTRA",
     "plan_name": "Essential nbn Internet Only",
     "speed": "50/20",
@@ -4687,30 +4711,6 @@
     "promo_price": "$89.00",
     "promotion": "$6.00 off 6mo",
     "data": "$1104.00",
-    "contract": "-",
-    "connection": "Fixed",
-    "network": "NBN"
-  },
-  {
-    "provider": "PENTANET",
-    "plan_name": "Family 100/20",
-    "speed": "100/20",
-    "price": "$95.00",
-    "promo_price": "$76.00",
-    "promotion": "$19.00 off 6mo",
-    "data": "$1026.00",
-    "contract": "-",
-    "connection": "Fixed",
-    "network": "NBN"
-  },
-  {
-    "provider": "PENTANET",
-    "plan_name": "Family 500/50",
-    "speed": "500/50",
-    "price": "$95.00",
-    "promo_price": "$76.00",
-    "promotion": "$19.00 off 6mo",
-    "data": "$1026.00",
     "contract": "-",
     "connection": "Fixed",
     "network": "NBN"
@@ -4764,13 +4764,61 @@
     "network": "NBN"
   },
   {
+    "provider": "OPTUS",
+    "plan_name": "Everyday plan",
+    "speed": "50/20",
+    "price": "$95.00",
+    "promo_price": "-",
+    "promotion": "-",
+    "data": "$1140.00",
+    "contract": "-",
+    "connection": "Fixed",
+    "network": "NBN"
+  },
+  {
+    "provider": "PEAR",
+    "plan_name": "500Domestic",
+    "speed": "500/50",
+    "price": "$95.00",
+    "promo_price": "-",
+    "promotion": "-",
+    "data": "$1140.00",
+    "contract": "-",
+    "connection": "Fixed",
+    "network": "NBN"
+  },
+  {
+    "provider": "PENTANET",
+    "plan_name": "Family 100/20",
+    "speed": "100/20",
+    "price": "$95.00",
+    "promo_price": "$76.00",
+    "promotion": "$19.00 off 6mo",
+    "data": "$1026.00",
+    "contract": "-",
+    "connection": "Fixed",
+    "network": "NBN"
+  },
+  {
+    "provider": "PENTANET",
+    "plan_name": "Family 500/50",
+    "speed": "500/50",
+    "price": "$95.00",
+    "promo_price": "$76.00",
+    "promotion": "$19.00 off 6mo",
+    "data": "$1026.00",
+    "contract": "-",
+    "connection": "Fixed",
+    "network": "NBN"
+  },
+  {
     "provider": "MORE",
     "plan_name": "Value Plus",
     "speed": "50/20",
     "price": "$95.00",
-    "promo_price": "$70.00",
-    "promotion": "$25.00 off 36mo",
-    "data": "$840.00",
+    "promo_price": "-",
+    "promotion": "-",
+    "data": "$1140.00",
     "contract": "-",
     "connection": "Fixed",
     "network": "NBN"
@@ -4812,30 +4860,6 @@
     "network": "OPTICOMM"
   },
   {
-    "provider": "OPTUS",
-    "plan_name": "Everyday plan",
-    "speed": "50/20",
-    "price": "$95.00",
-    "promo_price": "-",
-    "promotion": "-",
-    "data": "$1140.00",
-    "contract": "-",
-    "connection": "Fixed",
-    "network": "NBN"
-  },
-  {
-    "provider": "PEAR",
-    "plan_name": "500Domestic",
-    "speed": "500/50",
-    "price": "$95.00",
-    "promo_price": "-",
-    "promotion": "-",
-    "data": "$1140.00",
-    "contract": "-",
-    "connection": "Fixed",
-    "network": "NBN"
-  },
-  {
     "provider": "STEELE TECHNOLOGY",
     "plan_name": "Premium Plan",
     "speed": "50/20",
@@ -4857,31 +4881,7 @@
     "data": "$984.00",
     "contract": "-",
     "connection": "Fixed",
-    "network": "NBN"
-  },
-  {
-    "provider": "SUPERLOOP",
-    "plan_name": "Family Max",
-    "speed": "500/50",
-    "price": "$95.00",
-    "promo_price": "$69.00",
-    "promotion": "$26.00 off 6mo",
-    "data": "$984.00",
-    "contract": "-",
-    "connection": "Fixed",
     "network": "OPTICOMM"
-  },
-  {
-    "provider": "SUPERLOOP",
-    "plan_name": "Fixed Wireless Home Fast 250/20",
-    "speed": "250/20",
-    "price": "$95.00",
-    "promo_price": "$79.00",
-    "promotion": "$16.00 off 6mo",
-    "data": "$1044.00",
-    "contract": "-",
-    "connection": "Wireless",
-    "network": "NBN"
   },
   {
     "provider": "8NETWORKS",
@@ -5077,7 +5077,7 @@
   },
   {
     "provider": "MAD OVER TECH",
-    "plan_name": "50/20 Fixed WirelessB",
+    "plan_name": "50/20B",
     "speed": "50/20",
     "price": "$95.00",
     "promo_price": "-",
@@ -5112,6 +5112,30 @@
     "network": "NBN"
   },
   {
+    "provider": "NEPTUNE",
+    "plan_name": "NBN 100/40",
+    "speed": "100/40",
+    "price": "$95.00",
+    "promo_price": "-",
+    "promotion": "-",
+    "data": "$1140.00",
+    "contract": "-",
+    "connection": "Fixed",
+    "network": "NBN"
+  },
+  {
+    "provider": "NEPTUNE",
+    "plan_name": "NBN 750/50",
+    "speed": "750/50",
+    "price": "$95.00",
+    "promo_price": "-",
+    "promotion": "-",
+    "data": "$1140.00",
+    "contract": "-",
+    "connection": "Fixed",
+    "network": "NBN"
+  },
+  {
     "provider": "AUSSIE BROADBAND",
     "plan_name": "NBN Fast",
     "speed": "500/50",
@@ -5125,7 +5149,7 @@
   },
   {
     "provider": "AUSSIE BROADBAND",
-    "plan_name": "Opticomm Unlimited 100/20",
+    "plan_name": "Opticomm 100/20",
     "speed": "100/20",
     "price": "$95.00",
     "promo_price": "-",
@@ -5134,6 +5158,30 @@
     "contract": "-",
     "connection": "Fixed",
     "network": "OPTICOMM"
+  },
+  {
+    "provider": "SUPERLOOP",
+    "plan_name": "Family Max",
+    "speed": "500/50",
+    "price": "$95.00",
+    "promo_price": "$69.00",
+    "promotion": "$26.00 off 6mo",
+    "data": "$984.00",
+    "contract": "-",
+    "connection": "Fixed",
+    "network": "NBN"
+  },
+  {
+    "provider": "SUPERLOOP",
+    "plan_name": "Fixed Wireless Home Fast",
+    "speed": "250/20",
+    "price": "$95.00",
+    "promo_price": "$79.00",
+    "promotion": "$16.00 off 6mo",
+    "data": "$1044.00",
+    "contract": "-",
+    "connection": "Wireless",
+    "network": "NBN"
   },
   {
     "provider": "VALVE NETWORKS",
@@ -5245,8 +5293,20 @@
   },
   {
     "provider": "NEW SPROUT",
-    "plan_name": "Streaming",
+    "plan_name": "NBN Streaming",
     "speed": "100/20",
+    "price": "$97.00",
+    "promo_price": "-",
+    "promotion": "-",
+    "data": "$1164.00",
+    "contract": "-",
+    "connection": "Fixed",
+    "network": "NBN"
+  },
+  {
+    "provider": "PEAK CONNECT",
+    "plan_name": "Peak Fast",
+    "speed": "NBN 50",
     "price": "$97.00",
     "promo_price": "-",
     "promotion": "-",
@@ -5352,42 +5412,6 @@
     "network": "NBN"
   },
   {
-    "provider": "PEAK CONNECT",
-    "plan_name": "Peak Silver",
-    "speed": "NBN 250/100",
-    "price": "$99.00",
-    "promo_price": "-",
-    "promotion": "-",
-    "data": "$1188.00",
-    "contract": "-",
-    "connection": "Wireless",
-    "network": "NBN"
-  },
-  {
-    "provider": "LIGHTNING IP",
-    "plan_name": "Super Fast 750/50",
-    "speed": "750/50",
-    "price": "$99.00",
-    "promo_price": "-",
-    "promotion": "-",
-    "data": "$1188.00",
-    "contract": "-",
-    "connection": "Fixed",
-    "network": "NBN"
-  },
-  {
-    "provider": "LIGHTNING IP",
-    "plan_name": "Super Fast 400/40",
-    "speed": "400/40",
-    "price": "$99.00",
-    "promo_price": "-",
-    "promotion": "-",
-    "data": "$1188.00",
-    "contract": "-",
-    "connection": "Wireless",
-    "network": "NBN"
-  },
-  {
     "provider": "EHW TECHNOLOGY",
     "plan_name": "PREMIUM PLUS PLAN",
     "speed": "100/40",
@@ -5424,6 +5448,102 @@
     "network": "NBN"
   },
   {
+    "provider": "CARBON COMMS",
+    "plan_name": "Carbon Ultrafast 1000/100",
+    "speed": "1000/100",
+    "price": "$99.00",
+    "promo_price": "-",
+    "promotion": "-",
+    "data": "$1188.00",
+    "contract": "-",
+    "connection": "Fixed",
+    "network": "NBN"
+  },
+  {
+    "provider": "CARBON COMMS",
+    "plan_name": "Carbon Business Superfast 250/100 (99)B",
+    "speed": "250/100",
+    "price": "$99.00",
+    "promo_price": "-",
+    "promotion": "-",
+    "data": "$1188.00",
+    "contract": "-",
+    "connection": "Fixed",
+    "network": "NBN"
+  },
+  {
+    "provider": "OPTUS",
+    "plan_name": "Fast plan 100/20",
+    "speed": "100/20",
+    "price": "$99.00",
+    "promo_price": "-",
+    "promotion": "-",
+    "data": "$1188.00",
+    "contract": "-",
+    "connection": "Fixed",
+    "network": "NBN"
+  },
+  {
+    "provider": "OPTUS",
+    "plan_name": "Fast plan 500/50",
+    "speed": "500/50",
+    "price": "$99.00",
+    "promo_price": "-",
+    "promotion": "-",
+    "data": "$1188.00",
+    "contract": "-",
+    "connection": "Fixed",
+    "network": "NBN"
+  },
+  {
+    "provider": "AGL TELECOMMUNICATIONS",
+    "plan_name": "Home Standard",
+    "speed": "50/20",
+    "price": "$99.00",
+    "promo_price": "$84.00",
+    "promotion": "$15.00",
+    "data": "$1008.00",
+    "contract": "-",
+    "connection": "Fixed",
+    "network": "NBN"
+  },
+  {
+    "provider": "AGL TELECOMMUNICATIONS",
+    "plan_name": "Fixed Wireless Plus",
+    "speed": "75/10",
+    "price": "$99.00",
+    "promo_price": "$84.00",
+    "promotion": "$15.00",
+    "data": "$1008.00",
+    "contract": "-",
+    "connection": "Wireless",
+    "network": "NBN"
+  },
+  {
+    "provider": "LIGHTNING IP",
+    "plan_name": "Super Fast 750/50",
+    "speed": "750/50",
+    "price": "$99.00",
+    "promo_price": "-",
+    "promotion": "-",
+    "data": "$1188.00",
+    "contract": "-",
+    "connection": "Fixed",
+    "network": "NBN"
+  },
+  {
+    "provider": "LIGHTNING IP",
+    "plan_name": "Super Fast 400/40",
+    "speed": "400/40",
+    "price": "$99.00",
+    "promo_price": "-",
+    "promotion": "-",
+    "data": "$1188.00",
+    "contract": "-",
+    "connection": "Wireless",
+    "network": "NBN"
+  },
+  {
     "provider": "NATAN",
     "plan_name": "The 500/50",
     "speed": "500/50",
@@ -5448,27 +5568,15 @@
     "network": "OPTICOMM"
   },
   {
-    "provider": "CARBON COMMS",
-    "plan_name": "Carbon Ultrafast 1000/100",
-    "speed": "1000/100",
+    "provider": "PEAK CONNECT",
+    "plan_name": "Peak Silver",
+    "speed": "NBN 250/100",
     "price": "$99.00",
     "promo_price": "-",
     "promotion": "-",
     "data": "$1188.00",
     "contract": "-",
-    "connection": "Fixed",
-    "network": "NBN"
-  },
-  {
-    "provider": "CARBON COMMS",
-    "plan_name": "Carbon Business Superfast 250/100 (99)B",
-    "speed": "250/100",
-    "price": "$99.00",
-    "promo_price": "-",
-    "promotion": "-",
-    "data": "$1188.00",
-    "contract": "-",
-    "connection": "Fixed",
+    "connection": "Wireless",
     "network": "NBN"
   },
   {
@@ -5497,7 +5605,7 @@
   },
   {
     "provider": "NEW SPROUT",
-    "plan_name": "NBN\u00e2\u0084\u00a2 Fixed Wireless Family",
+    "plan_name": "NBN Fixed Wireless Family",
     "speed": "250/20",
     "price": "$99.00",
     "promo_price": "-",
@@ -5505,30 +5613,6 @@
     "data": "$1188.00",
     "contract": "-",
     "connection": "Wireless",
-    "network": "NBN"
-  },
-  {
-    "provider": "OPTUS",
-    "plan_name": "Fast plan 100/20",
-    "speed": "100/20",
-    "price": "$99.00",
-    "promo_price": "-",
-    "promotion": "-",
-    "data": "$1188.00",
-    "contract": "-",
-    "connection": "Fixed",
-    "network": "NBN"
-  },
-  {
-    "provider": "OPTUS",
-    "plan_name": "Fast plan 500/50",
-    "speed": "500/50",
-    "price": "$99.00",
-    "promo_price": "-",
-    "promotion": "-",
-    "data": "$1188.00",
-    "contract": "-",
-    "connection": "Fixed",
     "network": "NBN"
   },
   {
@@ -5604,30 +5688,6 @@
     "network": "OPTICOMM"
   },
   {
-    "provider": "AGL TELECOMMUNICATIONS",
-    "plan_name": "Home Standard",
-    "speed": "50/20",
-    "price": "$99.00",
-    "promo_price": "$84.00",
-    "promotion": "$15.00",
-    "data": "$1008.00",
-    "contract": "-",
-    "connection": "Fixed",
-    "network": "NBN"
-  },
-  {
-    "provider": "AGL TELECOMMUNICATIONS",
-    "plan_name": "Fixed Wireless Plus",
-    "speed": "75/10",
-    "price": "$99.00",
-    "promo_price": "$84.00",
-    "promotion": "$15.00",
-    "data": "$1008.00",
-    "contract": "-",
-    "connection": "Wireless",
-    "network": "NBN"
-  },
-  {
     "provider": "AQUA MOBILE",
     "plan_name": "Standard Plus",
     "speed": "50/20",
@@ -5653,13 +5713,25 @@
   },
   {
     "provider": "PEAK CONNECT",
-    "plan_name": "Peak Plus",
-    "speed": "NBN 100/40",
+    "plan_name": "Peak Home Fast",
+    "speed": "NBN 100/20",
     "price": "$99.00",
     "promo_price": "-",
     "promotion": "-",
     "data": "$1188.00",
-    "contract": "24mo",
+    "contract": "-",
+    "connection": "Fixed",
+    "network": "NBN"
+  },
+  {
+    "provider": "PEAK CONNECT",
+    "plan_name": "Peak Home Fast 500/50",
+    "speed": "Home Fast 500/50",
+    "price": "$99.00",
+    "promo_price": "-",
+    "promotion": "-",
+    "data": "$1188.00",
+    "contract": "-",
     "connection": "Fixed",
     "network": "NBN"
   },
@@ -5755,6 +5827,18 @@
     "promo_price": "-",
     "promotion": "-",
     "data": "$1188.00",
+    "contract": "-",
+    "connection": "Fixed",
+    "network": "NBN"
+  },
+  {
+    "provider": "SUPERLOOP",
+    "plan_name": "Superfast Plus",
+    "speed": "250/100",
+    "price": "$99.00",
+    "promo_price": "$85.00",
+    "promotion": "$14.00 off 6mo",
+    "data": "$1104.00",
     "contract": "-",
     "connection": "Fixed",
     "network": "NBN"
@@ -5988,18 +6072,6 @@
     "network": "OPTICOMM"
   },
   {
-    "provider": "THE INTERNET PROVIDER",
-    "plan_name": "Premium",
-    "speed": "500/50",
-    "price": "$100.00",
-    "promo_price": "-",
-    "promotion": "-",
-    "data": "$1200.00",
-    "contract": "-",
-    "connection": "Fixed",
-    "network": "NBN"
-  },
-  {
     "provider": "LIGHTNING IP",
     "plan_name": "Pro 100",
     "speed": "100/40",
@@ -6024,18 +6096,6 @@
     "network": "NBN"
   },
   {
-    "provider": "NEPTUNE",
-    "plan_name": "NBN 250/20 (Fixed Wireless)",
-    "speed": "250/20",
-    "price": "$100.00",
-    "promo_price": "-",
-    "promotion": "-",
-    "data": "$1200.00",
-    "contract": "-",
-    "connection": "Wireless",
-    "network": "NBN"
-  },
-  {
     "provider": "MORE",
     "plan_name": "Fast",
     "speed": "100/20",
@@ -6052,9 +6112,9 @@
     "plan_name": "Fast Max",
     "speed": "500/50",
     "price": "$100.00",
-    "promo_price": "$75.00",
-    "promotion": "$25.00 off 36mo",
-    "data": "$900.00",
+    "promo_price": "-",
+    "promotion": "-",
+    "data": "$1200.00",
     "contract": "-",
     "connection": "Fixed",
     "network": "NBN"
@@ -6072,13 +6132,13 @@
     "network": "NBN"
   },
   {
-    "provider": "SUPERLOOP",
-    "plan_name": "EVERYDAY BUSINESS 500/50B",
+    "provider": "THE INTERNET PROVIDER",
+    "plan_name": "Premium",
     "speed": "500/50",
     "price": "$100.00",
-    "promo_price": "$85.00",
-    "promotion": "$15.00 off 6mo",
-    "data": "$1110.00",
+    "promo_price": "-",
+    "promotion": "-",
+    "data": "$1200.00",
     "contract": "-",
     "connection": "Fixed",
     "network": "NBN"
@@ -6097,7 +6157,7 @@
   },
   {
     "provider": "FUTURE BROADBAND",
-    "plan_name": "FUTURE 100/20",
+    "plan_name": "FUTURE 95",
     "speed": "100/20",
     "price": "$100.00",
     "promo_price": "-",
@@ -6112,16 +6172,16 @@
     "plan_name": "NBN 750",
     "speed": "750/50",
     "price": "$100.00",
-    "promo_price": "$90.00",
-    "promotion": "$10.00 off 6mo",
-    "data": "$1140.00",
+    "promo_price": "$60.00",
+    "promotion": "$40.00 off 6mo",
+    "data": "$960.00",
     "contract": "-",
     "connection": "Fixed",
     "network": "NBN"
   },
   {
     "provider": "MAD OVER TECH",
-    "plan_name": "ULTRA PLANB",
+    "plan_name": "ULTRA PLAN",
     "speed": "100/40",
     "price": "$100.00",
     "promo_price": "-",
@@ -6129,6 +6189,18 @@
     "data": "$1200.00",
     "contract": "24mo",
     "connection": "Fixed",
+    "network": "NBN"
+  },
+  {
+    "provider": "NEPTUNE",
+    "plan_name": "NBN 250/20 (Fixed Wireless)",
+    "speed": "250/20",
+    "price": "$100.00",
+    "promo_price": "-",
+    "promotion": "-",
+    "data": "$1200.00",
+    "contract": "-",
+    "connection": "Wireless",
     "network": "NBN"
   },
   {
@@ -6180,30 +6252,6 @@
     "network": "OPTICOMM"
   },
   {
-    "provider": "ORIGIN BROADBAND",
-    "plan_name": "Experience nbn",
-    "speed": "50/20",
-    "price": "$103.00",
-    "promo_price": "-",
-    "promotion": "-",
-    "data": "$1236.00",
-    "contract": "-",
-    "connection": "Fixed",
-    "network": "NBN"
-  },
-  {
-    "provider": "ORIGIN BROADBAND",
-    "plan_name": "Enthusiast nbn",
-    "speed": "100/20",
-    "price": "$103.00",
-    "promo_price": "-",
-    "promotion": "-",
-    "data": "$1236.00",
-    "contract": "-",
-    "connection": "Fixed",
-    "network": "NBN"
-  },
-  {
     "provider": "PENTANET",
     "plan_name": "Family",
     "speed": "100/20",
@@ -6253,7 +6301,7 @@
   },
   {
     "provider": "NEW SPROUT",
-    "plan_name": "All-rounder",
+    "plan_name": "NBN All-rounder",
     "speed": "500/50",
     "price": "$104.00",
     "promo_price": "-",
@@ -6285,18 +6333,6 @@
     "data": "$1074.00",
     "contract": "-",
     "connection": "Fixed",
-    "network": "NBN"
-  },
-  {
-    "provider": "SUPERLOOP",
-    "plan_name": "Megaspeed",
-    "speed": "750/50",
-    "price": "$104.00",
-    "promo_price": "$75.00",
-    "promotion": "$29.00 off 6mo",
-    "data": "$1074.00",
-    "contract": "-",
-    "connection": "Fixed",
     "network": "OPTICOMM"
   },
   {
@@ -6307,6 +6343,18 @@
     "promo_price": "$82.00",
     "promotion": "$22.00 off 6mo",
     "data": "$1116.00",
+    "contract": "-",
+    "connection": "Fixed",
+    "network": "NBN"
+  },
+  {
+    "provider": "SUPERLOOP",
+    "plan_name": "Megaspeed",
+    "speed": "750/50",
+    "price": "$104.00",
+    "promo_price": "$75.00",
+    "promotion": "$29.00 off 6mo",
+    "data": "$1074.00",
     "contract": "-",
     "connection": "Fixed",
     "network": "NBN"
@@ -6432,9 +6480,9 @@
     "network": "OPTICOMM"
   },
   {
-    "provider": "NEPTUNE",
-    "plan_name": "NBN 1000/100",
-    "speed": "1000/100",
+    "provider": "CARBON COMMS",
+    "plan_name": "Carbon Business Turbofast 500/200B",
+    "speed": "500/200",
     "price": "$105.00",
     "promo_price": "-",
     "promotion": "-",
@@ -6453,42 +6501,6 @@
     "data": "$1134.00",
     "contract": "-",
     "connection": "Fixed",
-    "network": "NBN"
-  },
-  {
-    "provider": "CARBON COMMS",
-    "plan_name": "Carbon Business Turbofast 500/200B",
-    "speed": "500/200",
-    "price": "$105.00",
-    "promo_price": "-",
-    "promotion": "-",
-    "data": "$1260.00",
-    "contract": "-",
-    "connection": "Fixed",
-    "network": "NBN"
-  },
-  {
-    "provider": "SUPERLOOP",
-    "plan_name": "BUSINESS MAX 250/100B",
-    "speed": "250/100",
-    "price": "$105.00",
-    "promo_price": "$90.00",
-    "promotion": "$15.00 off 6mo",
-    "data": "$1170.00",
-    "contract": "-",
-    "connection": "Fixed",
-    "network": "NBN"
-  },
-  {
-    "provider": "SUPERLOOP",
-    "plan_name": "Fixed Wireless Super Fast 400/40",
-    "speed": "400/40",
-    "price": "$105.00",
-    "promo_price": "$89.00",
-    "promotion": "$16.00 off 6mo",
-    "data": "$1164.00",
-    "contract": "-",
-    "connection": "Wireless",
     "network": "NBN"
   },
   {
@@ -6636,6 +6648,18 @@
     "network": "NBN"
   },
   {
+    "provider": "NEPTUNE",
+    "plan_name": "NBN 1000/100",
+    "speed": "1000/100",
+    "price": "$105.00",
+    "promo_price": "-",
+    "promotion": "-",
+    "data": "$1260.00",
+    "contract": "-",
+    "connection": "Fixed",
+    "network": "NBN"
+  },
+  {
     "provider": "SOLITARY TECHNOLOGY",
     "plan_name": "Fixed Wireless Superfast",
     "speed": "400/40",
@@ -6657,6 +6681,30 @@
     "data": "$1260.00",
     "contract": "-",
     "connection": "Fixed",
+    "network": "NBN"
+  },
+  {
+    "provider": "SUPERLOOP",
+    "plan_name": "BUSINESS MAX 250/100B",
+    "speed": "250/100",
+    "price": "$105.00",
+    "promo_price": "$90.00",
+    "promotion": "$15.00 off 6mo",
+    "data": "$1170.00",
+    "contract": "-",
+    "connection": "Fixed",
+    "network": "NBN"
+  },
+  {
+    "provider": "SUPERLOOP",
+    "plan_name": "Fixed Wireless Super Fast",
+    "speed": "400/40",
+    "price": "$105.00",
+    "promo_price": "$89.00",
+    "promotion": "$16.00 off 6mo",
+    "data": "$1164.00",
+    "contract": "-",
+    "connection": "Wireless",
     "network": "NBN"
   },
   {
@@ -6696,18 +6744,6 @@
     "network": "NBN"
   },
   {
-    "provider": "ORIGIN BROADBAND",
-    "plan_name": "Enthusiast+ nbn",
-    "speed": "500/50",
-    "price": "$107.00",
-    "promo_price": "-",
-    "promotion": "-",
-    "data": "$1284.00",
-    "contract": "-",
-    "connection": "Fixed",
-    "network": "NBN"
-  },
-  {
     "provider": "AGL TELECOMMUNICATIONS",
     "plan_name": "Home Fast",
     "speed": "100/20",
@@ -6732,16 +6768,40 @@
     "network": "NBN"
   },
   {
+    "provider": "PEAK CONNECT",
+    "plan_name": "Peak Plus",
+    "speed": "NBN 100/40",
+    "price": "$107.00",
+    "promo_price": "-",
+    "promotion": "-",
+    "data": "$1284.00",
+    "contract": "-",
+    "connection": "Fixed",
+    "network": "NBN"
+  },
+  {
     "provider": "CARBON COMMS",
     "plan_name": "Carbon Super Fast 750/50",
     "speed": "750/50",
     "price": "$107.00",
     "promo_price": "-",
     "promotion": "-",
-    "data": "$1291.70",
+    "data": "$1284.00",
     "contract": "-",
     "connection": "Fixed",
     "network": "OPTICOMM"
+  },
+  {
+    "provider": "ORIGIN BROADBAND",
+    "plan_name": "Experience nbn",
+    "speed": "50/20",
+    "price": "$108.00",
+    "promo_price": "$54.00",
+    "promotion": "$54.00 off 6mo",
+    "data": "$972.00",
+    "contract": "-",
+    "connection": "Fixed",
+    "network": "NBN"
   },
   {
     "provider": "QUOKKA NET",
@@ -6840,18 +6900,6 @@
     "network": "NBN"
   },
   {
-    "provider": "LIGHTNING IP",
-    "plan_name": "Ultra Fast",
-    "speed": "1000/100",
-    "price": "$109.00",
-    "promo_price": "-",
-    "promotion": "-",
-    "data": "$1308.00",
-    "contract": "-",
-    "connection": "Fixed",
-    "network": "NBN"
-  },
-  {
     "provider": "TELSTRA",
     "plan_name": "Essential nbn",
     "speed": "50/20",
@@ -6859,30 +6907,6 @@
     "promo_price": "$95.00",
     "promotion": "$14.00 off 6mo",
     "data": "$1224.00",
-    "contract": "-",
-    "connection": "Fixed",
-    "network": "NBN"
-  },
-  {
-    "provider": "NATAN",
-    "plan_name": "The 250/25",
-    "speed": "250/25",
-    "price": "$109.00",
-    "promo_price": "$99.00",
-    "promotion": "$10.00 off 6mo",
-    "data": "$1248.00",
-    "contract": "-",
-    "connection": "Fixed",
-    "network": "OPTICOMM"
-  },
-  {
-    "provider": "GOINTERNET",
-    "plan_name": "Go100/40",
-    "speed": "100/40",
-    "price": "$109.00",
-    "promo_price": "-",
-    "promotion": "-",
-    "data": "$1308.00",
     "contract": "-",
     "connection": "Fixed",
     "network": "NBN"
@@ -6912,6 +6936,42 @@
     "network": "NBN"
   },
   {
+    "provider": "LIGHTNING IP",
+    "plan_name": "Ultra Fast",
+    "speed": "1000/100",
+    "price": "$109.00",
+    "promo_price": "-",
+    "promotion": "-",
+    "data": "$1308.00",
+    "contract": "-",
+    "connection": "Fixed",
+    "network": "NBN"
+  },
+  {
+    "provider": "NATAN",
+    "plan_name": "The 250/25",
+    "speed": "250/25",
+    "price": "$109.00",
+    "promo_price": "$99.00",
+    "promotion": "$10.00 off 6mo",
+    "data": "$1248.00",
+    "contract": "-",
+    "connection": "Fixed",
+    "network": "OPTICOMM"
+  },
+  {
+    "provider": "GOINTERNET",
+    "plan_name": "Go100/40",
+    "speed": "100/40",
+    "price": "$109.00",
+    "promo_price": "-",
+    "promotion": "-",
+    "data": "$1308.00",
+    "contract": "-",
+    "connection": "Fixed",
+    "network": "NBN"
+  },
+  {
     "provider": "REAL WORLD TECHNOLOGY SOLUTIONS",
     "plan_name": "NBN Home Fast Plus",
     "speed": "100/40",
@@ -6928,21 +6988,9 @@
     "plan_name": "Lightspeed",
     "speed": "1000/100",
     "price": "$109.00",
-    "promo_price": "$85.00",
-    "promotion": "$24.00 off 6mo",
-    "data": "$1164.00",
-    "contract": "-",
-    "connection": "Fixed",
-    "network": "NBN"
-  },
-  {
-    "provider": "SUPERLOOP",
-    "plan_name": "Lightspeed",
-    "speed": "1000/100",
-    "price": "$109.00",
-    "promo_price": "$85.00",
-    "promotion": "$24.00 off 6mo",
-    "data": "$1164.00",
+    "promo_price": "$79.00",
+    "promotion": "$30.00 off 6mo",
+    "data": "$1128.00",
     "contract": "-",
     "connection": "Fixed",
     "network": "OPTICOMM"
@@ -6961,7 +7009,7 @@
   },
   {
     "provider": "SWOOP",
-    "plan_name": "nbn\u00c2\u00ae 1000/100 Mbps",
+    "plan_name": "Home Ultrafast",
     "speed": "1000/100",
     "price": "$109.00",
     "promo_price": "$85.00",
@@ -6996,6 +7044,18 @@
     "network": "NBN"
   },
   {
+    "provider": "PEAK CONNECT",
+    "plan_name": "Peak Home Super Fast",
+    "speed": "Home Superfast 750/50",
+    "price": "$109.00",
+    "promo_price": "-",
+    "promotion": "-",
+    "data": "$1308.00",
+    "contract": "-",
+    "connection": "Fixed",
+    "network": "NBN"
+  },
+  {
     "provider": "FANTEL",
     "plan_name": "NBN 100/40",
     "speed": "100/40",
@@ -7009,7 +7069,7 @@
   },
   {
     "provider": "AUSSIE BROADBAND",
-    "plan_name": "NBN Super-Fast PRO",
+    "plan_name": "NBN Super-Fast PROB",
     "speed": "250/100",
     "price": "$109.00",
     "promo_price": "-",
@@ -7021,7 +7081,7 @@
   },
   {
     "provider": "AUSSIE BROADBAND",
-    "plan_name": "Opticomm Unlimited 100/40",
+    "plan_name": "Opticomm 100/40",
     "speed": "100/40",
     "price": "$109.00",
     "promo_price": "-",
@@ -7030,6 +7090,18 @@
     "contract": "-",
     "connection": "Fixed",
     "network": "OPTICOMM"
+  },
+  {
+    "provider": "SUPERLOOP",
+    "plan_name": "Lightspeed",
+    "speed": "1000/100",
+    "price": "$109.00",
+    "promo_price": "$79.00",
+    "promotion": "$30.00 off 6mo",
+    "data": "$1128.00",
+    "contract": "-",
+    "connection": "Fixed",
+    "network": "NBN"
   },
   {
     "provider": "TELSIM",
@@ -7044,18 +7116,6 @@
     "network": "NBN"
   },
   {
-    "provider": "GOINTERNET",
-    "plan_name": "NBN 250",
-    "speed": "250/100",
-    "price": "$109.90",
-    "promo_price": "-",
-    "promotion": "-",
-    "data": "$1318.80",
-    "contract": "-",
-    "connection": "Fixed",
-    "network": "NBN"
-  },
-  {
     "provider": "QUOKKA NET",
     "plan_name": "nbn Fixed Wireless 400 Mbps Plan",
     "speed": "Home Fast 500/50",
@@ -7065,6 +7125,18 @@
     "data": "$1318.80",
     "contract": "-",
     "connection": "Wireless",
+    "network": "NBN"
+  },
+  {
+    "provider": "GOINTERNET",
+    "plan_name": "NBN 250",
+    "speed": "250/100",
+    "price": "$109.90",
+    "promo_price": "-",
+    "promotion": "-",
+    "data": "$1318.80",
+    "contract": "-",
+    "connection": "Fixed",
     "network": "NBN"
   },
   {
@@ -7117,7 +7189,7 @@
   },
   {
     "provider": "ACTIV8ME",
-    "plan_name": "Super Fast",
+    "plan_name": "Fixed Wireless Super Fast",
     "speed": "400/40",
     "price": "$109.95",
     "promo_price": "$89.95",
@@ -7272,18 +7344,6 @@
     "network": "OPTICOMM"
   },
   {
-    "provider": "PEAK CONNECT",
-    "plan_name": "Peak Gold",
-    "speed": "Home Fast 500/50",
-    "price": "$110.00",
-    "promo_price": "-",
-    "promotion": "-",
-    "data": "$1320.00",
-    "contract": "-",
-    "connection": "Wireless",
-    "network": "NBN"
-  },
-  {
     "provider": "LIGHTNING IP",
     "plan_name": "Priority 250",
     "speed": "250/100",
@@ -7296,21 +7356,9 @@
     "network": "NBN"
   },
   {
-    "provider": "NEPTUNE",
-    "plan_name": "NBN 250/100B",
-    "speed": "250/100",
-    "price": "$110.00",
-    "promo_price": "-",
-    "promotion": "-",
-    "data": "$1320.00",
-    "contract": "-",
-    "connection": "Fixed",
-    "network": "NBN"
-  },
-  {
-    "provider": "NEPTUNE",
-    "plan_name": "NBN 400/40 (Fixed Wireless)",
-    "speed": "400/40",
+    "provider": "PEAK CONNECT",
+    "plan_name": "Peak Gold",
+    "speed": "Home Fast 500/50",
     "price": "$110.00",
     "promo_price": "-",
     "promotion": "-",
@@ -7440,8 +7488,20 @@
     "network": "NBN"
   },
   {
+    "provider": "PEAK CONNECT",
+    "plan_name": "Peak Plus+",
+    "speed": "NBN 250/100",
+    "price": "$110.00",
+    "promo_price": "-",
+    "promotion": "-",
+    "data": "$1320.00",
+    "contract": "-",
+    "connection": "Fixed",
+    "network": "NBN"
+  },
+  {
     "provider": "FUTURE BROADBAND",
-    "plan_name": "FUTURE 100/40",
+    "plan_name": "FUTURE 100",
     "speed": "100/40",
     "price": "$110.00",
     "promo_price": "-",
@@ -7456,9 +7516,9 @@
     "plan_name": "NBN 1000",
     "speed": "1000/100",
     "price": "$110.00",
-    "promo_price": "$100.00",
-    "promotion": "$10.00 off 6mo",
-    "data": "$1260.00",
+    "promo_price": "$70.00",
+    "promotion": "$40.00 off 6mo",
+    "data": "$1080.00",
     "contract": "-",
     "connection": "Fixed",
     "network": "NBN"
@@ -7488,6 +7548,30 @@
     "network": "NBN"
   },
   {
+    "provider": "NEPTUNE",
+    "plan_name": "NBN 250/100",
+    "speed": "250/100",
+    "price": "$110.00",
+    "promo_price": "-",
+    "promotion": "-",
+    "data": "$1320.00",
+    "contract": "-",
+    "connection": "Fixed",
+    "network": "NBN"
+  },
+  {
+    "provider": "NEPTUNE",
+    "plan_name": "NBN 400/40 (Fixed Wireless)",
+    "speed": "400/40",
+    "price": "$110.00",
+    "promo_price": "-",
+    "promotion": "-",
+    "data": "$1320.00",
+    "contract": "-",
+    "connection": "Wireless",
+    "network": "NBN"
+  },
+  {
     "provider": "IT'S FUBAR",
     "plan_name": "nbn Fixed Wireless Superfast",
     "speed": "400/40",
@@ -7500,13 +7584,25 @@
     "network": "NBN"
   },
   {
+    "provider": "ORIGIN BROADBAND",
+    "plan_name": "Extra Fast nbn",
+    "speed": "500/50",
+    "price": "$112.00",
+    "promo_price": "$56.00",
+    "promotion": "$56.00 off 6mo",
+    "data": "$1008.00",
+    "contract": "-",
+    "connection": "Fixed",
+    "network": "NBN"
+  },
+  {
     "provider": "CARBON COMMS",
     "plan_name": "Carbon Ultrafast 1000/100",
     "speed": "1000/100",
     "price": "$112.00",
     "promo_price": "-",
     "promotion": "-",
-    "data": "$1351.70",
+    "data": "$1344.00",
     "contract": "-",
     "connection": "Fixed",
     "network": "OPTICOMM"
@@ -7585,7 +7681,7 @@
   },
   {
     "provider": "NEW SPROUT",
-    "plan_name": "Large Family",
+    "plan_name": "NBN Large Family",
     "speed": "750/50",
     "price": "$114.00",
     "promo_price": "-",
@@ -7597,7 +7693,7 @@
   },
   {
     "provider": "NEW SPROUT",
-    "plan_name": "NBN\u00e2\u0084\u00a2 Fixed Wireless Max",
+    "plan_name": "NBN Fixed Wireless Max",
     "speed": "400/40",
     "price": "$114.00",
     "promo_price": "-",
@@ -7836,6 +7932,30 @@
     "network": "NBN"
   },
   {
+    "provider": "OPTUS",
+    "plan_name": "Promo plan 100/20",
+    "speed": "100/20",
+    "price": "$119.00",
+    "promo_price": "$109.00",
+    "promotion": "$10.00 off 12mo",
+    "data": "$1308.00",
+    "contract": "-",
+    "connection": "Fixed",
+    "network": "NBN"
+  },
+  {
+    "provider": "OPTUS",
+    "plan_name": "Promo plan 500/50",
+    "speed": "500/50",
+    "price": "$119.00",
+    "promo_price": "$109.00",
+    "promotion": "$10.00 off 12mo",
+    "data": "$1308.00",
+    "contract": "-",
+    "connection": "Fixed",
+    "network": "NBN"
+  },
+  {
     "provider": "NATAN",
     "plan_name": "The 750/50",
     "speed": "750/50",
@@ -7872,30 +7992,6 @@
     "network": "NBN"
   },
   {
-    "provider": "OPTUS",
-    "plan_name": "Promo plan 100/20",
-    "speed": "100/20",
-    "price": "$119.00",
-    "promo_price": "$109.00",
-    "promotion": "$10.00 off 12mo",
-    "data": "$1308.00",
-    "contract": "-",
-    "connection": "Fixed",
-    "network": "NBN"
-  },
-  {
-    "provider": "OPTUS",
-    "plan_name": "Promo plan 500/50",
-    "speed": "500/50",
-    "price": "$119.00",
-    "promo_price": "$109.00",
-    "promotion": "$10.00 off 12mo",
-    "data": "$1308.00",
-    "contract": "-",
-    "connection": "Fixed",
-    "network": "NBN"
-  },
-  {
     "provider": "REAL WORLD TECHNOLOGY SOLUTIONS",
     "plan_name": "NBN Home Extra Fast",
     "speed": "250/25",
@@ -7903,18 +7999,6 @@
     "promo_price": "-",
     "promotion": "-",
     "data": "$1428.00",
-    "contract": "-",
-    "connection": "Fixed",
-    "network": "NBN"
-  },
-  {
-    "provider": "SUPERLOOP",
-    "plan_name": "EVERYDAY BUSINESS 1000/100B",
-    "speed": "1000/100",
-    "price": "$119.00",
-    "promo_price": "$105.00",
-    "promotion": "$14.00 off 6mo",
-    "data": "$1344.00",
     "contract": "-",
     "connection": "Fixed",
     "network": "NBN"
@@ -7947,6 +8031,18 @@
     "provider": "AUS INTERNET",
     "plan_name": "Superfast",
     "speed": "750/50",
+    "price": "$119.00",
+    "promo_price": "-",
+    "promotion": "-",
+    "data": "$1428.00",
+    "contract": "-",
+    "connection": "Fixed",
+    "network": "NBN"
+  },
+  {
+    "provider": "PEAK CONNECT",
+    "plan_name": "Peak Home Ultra Fast",
+    "speed": "Home Ultrafast 1000/100",
     "price": "$119.00",
     "promo_price": "-",
     "promotion": "-",
@@ -7993,7 +8089,7 @@
   },
   {
     "provider": "AUSSIE BROADBAND",
-    "plan_name": "Opticomm Unlimited 250/25",
+    "plan_name": "Opticomm 250/25",
     "speed": "250/25",
     "price": "$119.00",
     "promo_price": "-",
@@ -8202,7 +8298,7 @@
     "price": "$120.00",
     "promo_price": "-",
     "promotion": "-",
-    "data": "$1447.70",
+    "data": "$1440.00",
     "contract": "-",
     "connection": "Fixed",
     "network": "OPTICOMM"
@@ -8256,18 +8352,6 @@
     "network": "NBN"
   },
   {
-    "provider": "THE INTERNET PROVIDER",
-    "plan_name": "Extreme Plus",
-    "speed": "750/50",
-    "price": "$125.00",
-    "promo_price": "-",
-    "promotion": "-",
-    "data": "$1500.00",
-    "contract": "-",
-    "connection": "Fixed",
-    "network": "NBN"
-  },
-  {
     "provider": "CARBON COMMS",
     "plan_name": "Carbon Business Ultrafast 1000/400B",
     "speed": "1000/400",
@@ -8280,13 +8364,13 @@
     "network": "NBN"
   },
   {
-    "provider": "SUPERLOOP",
-    "plan_name": "BUSINESS MAX 500/200B",
-    "speed": "500/200",
+    "provider": "THE INTERNET PROVIDER",
+    "plan_name": "Extreme Plus",
+    "speed": "750/50",
     "price": "$125.00",
-    "promo_price": "$110.00",
-    "promotion": "$15.00 off 6mo",
-    "data": "$1410.00",
+    "promo_price": "-",
+    "promotion": "-",
+    "data": "$1500.00",
     "contract": "-",
     "connection": "Fixed",
     "network": "NBN"
@@ -8312,6 +8396,18 @@
     "promotion": "-",
     "data": "$1500.00",
     "contract": "12mo",
+    "connection": "Fixed",
+    "network": "NBN"
+  },
+  {
+    "provider": "SUPERLOOP",
+    "plan_name": "BUSINESS MAX 500/200B",
+    "speed": "500/200",
+    "price": "$125.00",
+    "promo_price": "$110.00",
+    "promotion": "$15.00 off 6mo",
+    "data": "$1410.00",
+    "contract": "-",
     "connection": "Fixed",
     "network": "NBN"
   },
@@ -8400,6 +8496,42 @@
     "network": "NBN"
   },
   {
+    "provider": "OPTUS",
+    "plan_name": "Ultrafast plan",
+    "speed": "1000/100",
+    "price": "$129.00",
+    "promo_price": "-",
+    "promotion": "-",
+    "data": "$1548.00",
+    "contract": "-",
+    "connection": "Fixed",
+    "network": "NBN"
+  },
+  {
+    "provider": "PEAR",
+    "plan_name": "1000Domestic",
+    "speed": "1000/100",
+    "price": "$129.00",
+    "promo_price": "-",
+    "promotion": "-",
+    "data": "$1548.00",
+    "contract": "-",
+    "connection": "Fixed",
+    "network": "NBN"
+  },
+  {
+    "provider": "AGL TELECOMMUNICATIONS",
+    "plan_name": "Home Ultrafast",
+    "speed": "1000/100",
+    "price": "$129.00",
+    "promo_price": "$114.00",
+    "promotion": "$15.00",
+    "data": "$1368.00",
+    "contract": "-",
+    "connection": "Fixed",
+    "network": "NBN"
+  },
+  {
     "provider": "NATAN",
     "plan_name": "The 250/100",
     "speed": "250/100",
@@ -8440,9 +8572,9 @@
     "plan_name": "Ultrafast",
     "speed": "1000/100",
     "price": "$129.00",
-    "promo_price": "$104.00",
-    "promotion": "$25.00 off 36mo",
-    "data": "$1248.00",
+    "promo_price": "-",
+    "promotion": "-",
+    "data": "$1548.00",
     "contract": "-",
     "connection": "Fixed",
     "network": "NBN"
@@ -8473,43 +8605,7 @@
   },
   {
     "provider": "NEW SPROUT",
-    "plan_name": "Big Download",
-    "speed": "1000/100",
-    "price": "$129.00",
-    "promo_price": "-",
-    "promotion": "-",
-    "data": "$1548.00",
-    "contract": "-",
-    "connection": "Fixed",
-    "network": "NBN"
-  },
-  {
-    "provider": "OPTUS",
-    "plan_name": "Ultrafast plan",
-    "speed": "1000/100",
-    "price": "$129.00",
-    "promo_price": "-",
-    "promotion": "-",
-    "data": "$1548.00",
-    "contract": "-",
-    "connection": "Fixed",
-    "network": "NBN"
-  },
-  {
-    "provider": "ORIGIN BROADBAND",
-    "plan_name": "Super fast nbn",
-    "speed": "750/50",
-    "price": "$129.00",
-    "promo_price": "-",
-    "promotion": "-",
-    "data": "$1548.00",
-    "contract": "-",
-    "connection": "Fixed",
-    "network": "NBN"
-  },
-  {
-    "provider": "PEAR",
-    "plan_name": "1000Domestic",
+    "plan_name": "NBN Big Download",
     "speed": "1000/100",
     "price": "$129.00",
     "promo_price": "-",
@@ -8554,30 +8650,6 @@
     "contract": "1mo",
     "connection": "Fixed",
     "network": "OPTICOMM"
-  },
-  {
-    "provider": "10MATES",
-    "plan_name": "Zero Frills 250",
-    "speed": "250/25",
-    "price": "$129.00",
-    "promo_price": "-",
-    "promotion": "-",
-    "data": "$1548.00",
-    "contract": "-",
-    "connection": "Fixed",
-    "network": "NBN"
-  },
-  {
-    "provider": "AGL TELECOMMUNICATIONS",
-    "plan_name": "Home Ultrafast",
-    "speed": "1000/100",
-    "price": "$129.00",
-    "promo_price": "$114.00",
-    "promotion": "$15.00",
-    "data": "$1368.00",
-    "contract": "-",
-    "connection": "Fixed",
-    "network": "NBN"
   },
   {
     "provider": "CENTRAL CONNECT",
@@ -8641,7 +8713,7 @@
   },
   {
     "provider": "AUSSIE BROADBAND",
-    "plan_name": "Opticomm Unlimited 1000/50",
+    "plan_name": "Opticomm 1000/50",
     "speed": "1000/50",
     "price": "$129.00",
     "promo_price": "-",
@@ -8652,9 +8724,9 @@
     "network": "OPTICOMM"
   },
   {
-    "provider": "GOINTERNET",
-    "plan_name": "NBN 1000",
-    "speed": "1000/400",
+    "provider": "IT'S FUBAR",
+    "plan_name": "nbn Business 500 ProB",
+    "speed": "500/200",
     "price": "$129.90",
     "promo_price": "-",
     "promotion": "-",
@@ -8664,9 +8736,9 @@
     "network": "NBN"
   },
   {
-    "provider": "IT'S FUBAR",
-    "plan_name": "nbn Business 500 ProB",
-    "speed": "500/200",
+    "provider": "GOINTERNET",
+    "plan_name": "NBN 1000",
+    "speed": "1000/400",
     "price": "$129.90",
     "promo_price": "-",
     "promotion": "-",
@@ -8772,18 +8844,6 @@
     "network": "NBN"
   },
   {
-    "provider": "NEPTUNE",
-    "plan_name": "NBN 500/200 (FTTP)B",
-    "speed": "500/200",
-    "price": "$130.00",
-    "promo_price": "-",
-    "promotion": "-",
-    "data": "$1560.00",
-    "contract": "-",
-    "connection": "Fixed",
-    "network": "NBN"
-  },
-  {
     "provider": "10MATES",
     "plan_name": "Elite 100",
     "speed": "100/40",
@@ -8820,6 +8880,18 @@
     "network": "NBN"
   },
   {
+    "provider": "NEPTUNE",
+    "plan_name": "NBN 500/200 (FTTP)",
+    "speed": "500/200",
+    "price": "$130.00",
+    "promo_price": "-",
+    "promotion": "-",
+    "data": "$1560.00",
+    "contract": "-",
+    "connection": "Fixed",
+    "network": "NBN"
+  },
+  {
     "provider": "ZIPFIBRE",
     "plan_name": "Pro 500",
     "speed": "500/200",
@@ -8833,7 +8905,7 @@
   },
   {
     "provider": "AUSSIE BROADBAND",
-    "plan_name": "NBN Hyper-Fast PRO 500/200",
+    "plan_name": "NBN Hyper-Fast PRO 500/200B",
     "speed": "500/200",
     "price": "$130.00",
     "promo_price": "-",
@@ -8935,18 +9007,6 @@
     "promo_price": "-",
     "promotion": "-",
     "data": "$1666.80",
-    "contract": "-",
-    "connection": "Fixed",
-    "network": "NBN"
-  },
-  {
-    "provider": "ORIGIN BROADBAND",
-    "plan_name": "Ultra fast nbn",
-    "speed": "1000/100",
-    "price": "$139.00",
-    "promo_price": "-",
-    "promotion": "-",
-    "data": "$1668.00",
     "contract": "-",
     "connection": "Fixed",
     "network": "NBN"
@@ -9072,6 +9132,18 @@
     "network": "NBN"
   },
   {
+    "provider": "ORIGIN BROADBAND",
+    "plan_name": "Ultra fast nbn",
+    "speed": "1000/100",
+    "price": "$144.00",
+    "promo_price": "$72.00",
+    "promotion": "$72.00 off 6mo",
+    "data": "$1296.00",
+    "contract": "-",
+    "connection": "Fixed",
+    "network": "NBN"
+  },
+  {
     "provider": "CLICK ACCESS",
     "plan_name": "superfast 500/200",
     "speed": "500/200",
@@ -9115,6 +9187,18 @@
     "promo_price": "-",
     "promotion": "-",
     "data": "$1740.00",
+    "contract": "-",
+    "connection": "Fixed",
+    "network": "NBN"
+  },
+  {
+    "provider": "SUPERLOOP",
+    "plan_name": "BUSINESS MAX 1000/400B",
+    "speed": "1000/400",
+    "price": "$145.00",
+    "promo_price": "$130.00",
+    "promotion": "$15.00 off 6mo",
+    "data": "$1650.00",
     "contract": "-",
     "connection": "Fixed",
     "network": "NBN"
@@ -9180,18 +9264,6 @@
     "network": "OPTICOMM"
   },
   {
-    "provider": "NEPTUNE",
-    "plan_name": "NBN 1000/400 (FTTP)B",
-    "speed": "1000/400",
-    "price": "$150.00",
-    "promo_price": "-",
-    "promotion": "-",
-    "data": "$1800.00",
-    "contract": "-",
-    "connection": "Fixed",
-    "network": "NBN"
-  },
-  {
     "provider": "CARBON COMMS",
     "plan_name": "Carbon Hyperfast HFC 2000/100",
     "speed": "2000/100",
@@ -9228,8 +9300,20 @@
     "network": "NBN"
   },
   {
+    "provider": "NEPTUNE",
+    "plan_name": "NBN 1000/400 (FTTP)",
+    "speed": "1000/400",
+    "price": "$150.00",
+    "promo_price": "-",
+    "promotion": "-",
+    "data": "$1800.00",
+    "contract": "-",
+    "connection": "Fixed",
+    "network": "NBN"
+  },
+  {
     "provider": "AUSSIE BROADBAND",
-    "plan_name": "NBN Ultra-Fast PRO",
+    "plan_name": "NBN Ultra-Fast PROB",
     "speed": "1000/400",
     "price": "$150.00",
     "promo_price": "-",
@@ -9258,7 +9342,7 @@
     "price": "$154.00",
     "promo_price": "-",
     "promotion": "-",
-    "data": "$1855.70",
+    "data": "$1848.00",
     "contract": "-",
     "connection": "Fixed",
     "network": "OPTICOMM"
@@ -9267,6 +9351,18 @@
     "provider": "ADVANTAGE COMMUNICATION & DATA",
     "plan_name": "NBN 3B",
     "speed": "500/50",
+    "price": "$155.00",
+    "promo_price": "-",
+    "promotion": "-",
+    "data": "$1860.00",
+    "contract": "-",
+    "connection": "Fixed",
+    "network": "NBN"
+  },
+  {
+    "provider": "PEAK CONNECT",
+    "plan_name": "Peak Gold",
+    "speed": "Home Ultrafast 1000/400",
     "price": "$155.00",
     "promo_price": "-",
     "promotion": "-",
@@ -9408,6 +9504,18 @@
     "network": "NBN"
   },
   {
+    "provider": "SUPERLOOP",
+    "plan_name": "Hyperspeed",
+    "speed": "2000/200",
+    "price": "$165.00",
+    "promo_price": "$145.00",
+    "promotion": "$20.00 off 6mo",
+    "data": "$1860.00",
+    "contract": "-",
+    "connection": "Fixed",
+    "network": "NBN"
+  },
+  {
     "provider": "MATE",
     "plan_name": "Scorchin' Fast",
     "speed": "2000/200",
@@ -9427,6 +9535,18 @@
     "promo_price": "-",
     "promotion": "-",
     "data": "$2007.48",
+    "contract": "-",
+    "connection": "Fixed",
+    "network": "NBN"
+  },
+  {
+    "provider": "PEAR",
+    "plan_name": "Home1000",
+    "speed": "1000/400",
+    "price": "$169.00",
+    "promo_price": "-",
+    "promotion": "-",
+    "data": "$2028.00",
     "contract": "-",
     "connection": "Fixed",
     "network": "NBN"
@@ -9457,20 +9577,8 @@
   },
   {
     "provider": "NEW SPROUT",
-    "plan_name": "Big Upload",
+    "plan_name": "NBN Big Upload",
     "speed": "500/200",
-    "price": "$169.00",
-    "promo_price": "-",
-    "promotion": "-",
-    "data": "$2028.00",
-    "contract": "-",
-    "connection": "Fixed",
-    "network": "NBN"
-  },
-  {
-    "provider": "PEAR",
-    "plan_name": "Home1000",
-    "speed": "1000/400",
     "price": "$169.00",
     "promo_price": "-",
     "promotion": "-",
@@ -9487,114 +9595,6 @@
     "promo_price": "-",
     "promotion": "-",
     "data": "$2028.00",
-    "contract": "-",
-    "connection": "Fixed",
-    "network": "NBN"
-  },
-  {
-    "provider": "CMOBILE",
-    "plan_name": "Hyper Fast",
-    "speed": "2000/200",
-    "price": "$169.00",
-    "promo_price": "-",
-    "promotion": "-",
-    "data": "$2028.00",
-    "contract": "-",
-    "connection": "Fixed",
-    "network": "NBN"
-  },
-  {
-    "provider": "INFINET BROADBAND",
-    "plan_name": "SuperfastB",
-    "speed": "500/200",
-    "price": "$169.99",
-    "promo_price": "-",
-    "promotion": "-",
-    "data": "$2039.88",
-    "contract": "-",
-    "connection": "Fixed",
-    "network": "NBN"
-  },
-  {
-    "provider": "ADVANTAGE COMMUNICATION & DATA",
-    "plan_name": "NBN 4B",
-    "speed": "1000/100",
-    "price": "$170.00",
-    "promo_price": "-",
-    "promotion": "-",
-    "data": "$2040.00",
-    "contract": "-",
-    "connection": "Fixed",
-    "network": "NBN"
-  },
-  {
-    "provider": "IIG",
-    "plan_name": "NBN 1000",
-    "speed": "Home Ultrafast 1000/100",
-    "price": "$170.00",
-    "promo_price": "-",
-    "promotion": "-",
-    "data": "$2040.00",
-    "contract": "12mo",
-    "connection": "Fixed",
-    "network": "NBN"
-  },
-  {
-    "provider": "GOODTEL",
-    "plan_name": "nbn\u00e2\u0084\u00a2 2000/100B",
-    "speed": "2000/100",
-    "price": "$172.73",
-    "promo_price": "-",
-    "promotion": "-",
-    "data": "$2072.76",
-    "contract": "-",
-    "connection": "Fixed",
-    "network": "NBN"
-  },
-  {
-    "provider": "NEPTUNE",
-    "plan_name": "NBN 2000/200 (FTTP)",
-    "speed": "2000/200",
-    "price": "$175.00",
-    "promo_price": "-",
-    "promotion": "-",
-    "data": "$2100.00",
-    "contract": "-",
-    "connection": "Fixed",
-    "network": "NBN"
-  },
-  {
-    "provider": "NEPTUNE",
-    "plan_name": "NBN 2000/100",
-    "speed": "2000/100",
-    "price": "$175.00",
-    "promo_price": "-",
-    "promotion": "-",
-    "data": "$2100.00",
-    "contract": "-",
-    "connection": "Fixed",
-    "network": "NBN"
-  },
-  {
-    "provider": "MYOWN TEL",
-    "plan_name": "Home Hyperfast Plus",
-    "speed": "2000/200",
-    "price": "$175.00",
-    "promo_price": "$155.00",
-    "promotion": "$20.00 off 6mo",
-    "data": "$1980.00",
-    "contract": "-",
-    "connection": "Fixed",
-    "network": "NBN"
-  },
-  {
-    "provider": "SUPERLOOP",
-    "plan_name": "EVERYDAY BUSINESS 2000/200B",
-    "speed": "2000/200",
-    "price": "$175.00",
-    "promo_price": "$155.00",
-    "promotion": "$20.00 off 6mo",
-    "data": "$1980.00",
     "contract": "-",
     "connection": "Fixed",
     "network": "NBN"
